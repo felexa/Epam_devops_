@@ -1,0 +1,2304 @@
+.:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 13 23:31 Riot Games
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 Warcraft III
+
+./Riot Games:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:05 League of Legends
+drwxrwxrwx 1 felexa felexa 512 Mar 19 23:56 Riot Client
+
+./Riot Games/League of Legends:
+total 255772
+-rwxrwxrwx 1 felexa felexa   328720 Mar 13 23:31 BsSndRpt.exe
+-rwxrwxrwx 1 felexa felexa   307216 Mar 13 23:31 BugSplat.dll
+-rwxrwxrwx 1 felexa felexa   198240 Mar 21 12:54 BugSplatRc.dll
+drwxrwxrwx 1 felexa felexa      512 Mar 22 14:05 Config
+drwxrwxrwx 1 felexa felexa      512 Mar 14 00:27 Cookies
+drwxrwxrwx 1 felexa felexa      512 Mar 14 00:27 DATA
+-rwxrwxrwx 1 felexa felexa  2421408 Mar 13 23:31 GCloudVoice.dll
+drwxrwxrwx 1 felexa felexa      512 Mar 16 00:19 GPUCache
+drwxrwxrwx 1 felexa felexa      512 Mar 14 23:45 Game
+-rwxrwxrwx 1 felexa felexa 10452992 Mar 22 13:36 Game.db
+-rwxrwxrwx 1 felexa felexa  9374948 Mar 19 23:56 Game.manifest
+-rwxrwxrwx 1 felexa felexa  2449408 Mar 14 00:35 LeagueClient.db
+-rwxrwxrwx 1 felexa felexa 22959200 Mar 21 12:54 LeagueClient.exe
+-rwxrwxrwx 1 felexa felexa  2162669 Mar 14 00:34 LeagueClient.manifest
+-rwxrwxrwx 1 felexa felexa  3558496 Mar 21 12:54 LeagueClientUx.exe
+-rwxrwxrwx 1 felexa felexa   962656 Mar 21 12:54 LeagueClientUxRender.exe
+-rwxrwxrwx 1 felexa felexa   579168 Mar 21 12:54 LeagueCrashHandler.exe
+drwxrwxrwx 1 felexa felexa      512 Mar 14 00:27 Logs
+drwxrwxrwx 1 felexa felexa      512 Mar 19 23:54 Plugins
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:38 api-ms-win-core-console-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:38 api-ms-win-core-datetime-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11200 Mar 13 23:38 api-ms-win-core-debug-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:38 api-ms-win-core-errorhandling-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    14792 Mar 13 23:38 api-ms-win-core-file-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11416 Mar 13 23:38 api-ms-win-core-file-l1-2-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:38 api-ms-win-core-file-l2-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:38 api-ms-win-core-handle-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:38 api-ms-win-core-heap-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:38 api-ms-win-core-interlocked-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:38 api-ms-win-core-libraryloader-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13768 Mar 13 23:38 api-ms-win-core-localization-l1-2-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:38 api-ms-win-core-memory-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11200 Mar 13 23:38 api-ms-win-core-namedpipe-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:38 api-ms-win-core-processenvironment-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13768 Mar 13 23:38 api-ms-win-core-processthreads-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:38 api-ms-win-core-processthreads-l1-1-1.dll
+-rwxrwxrwx 1 felexa felexa    10696 Mar 13 23:38 api-ms-win-core-profile-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:38 api-ms-win-core-rtlsupport-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:38 api-ms-win-core-string-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13256 Mar 13 23:38 api-ms-win-core-synch-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11712 Mar 13 23:38 api-ms-win-core-synch-l1-2-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:38 api-ms-win-core-sysinfo-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:38 api-ms-win-core-timezone-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:38 api-ms-win-core-util-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:38 api-ms-win-crt-conio-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    15304 Mar 13 23:38 api-ms-win-crt-convert-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:38 api-ms-win-crt-environment-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13248 Mar 13 23:38 api-ms-win-crt-filesystem-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:38 api-ms-win-crt-heap-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:38 api-ms-win-crt-locale-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    21960 Mar 13 23:38 api-ms-win-crt-math-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    19400 Mar 13 23:38 api-ms-win-crt-multibyte-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    65992 Mar 13 23:38 api-ms-win-crt-private-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:38 api-ms-win-crt-process-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    15808 Mar 13 23:38 api-ms-win-crt-runtime-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    17352 Mar 13 23:38 api-ms-win-crt-stdio-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    17864 Mar 13 23:38 api-ms-win-crt-string-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13760 Mar 13 23:38 api-ms-win-crt-time-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:38 api-ms-win-crt-utility-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa  3677354 Mar 13 23:38 cef.pak
+-rwxrwxrwx 1 felexa felexa   742152 Mar 13 23:38 cef_100_percent.pak
+-rwxrwxrwx 1 felexa felexa   872802 Mar 13 23:38 cef_200_percent.pak
+-rwxrwxrwx 1 felexa felexa  1833343 Mar 13 23:38 cef_extensions.pak
+-rwxrwxrwx 1 felexa felexa   713312 Mar 21 12:54 chrome_elf.dll
+-rwxrwxrwx 1 felexa felexa   250136 Mar 13 23:38 concrt140.dll
+-rwxrwxrwx 1 felexa felexa  3705472 Mar 13 23:38 d3dcompiler_47.dll
+-rwxrwxrwx 1 felexa felexa  1155984 Mar 22 14:05 debug.log
+-rwxrwxrwx 1 felexa felexa  6014631 Mar 13 23:38 devtools_resources.pak
+-rwxrwxrwx 1 felexa felexa  1230336 Mar 13 23:38 ffmpeg.dll
+-rwxrwxrwx 1 felexa felexa 10326064 Mar 13 23:38 icudtl.dat
+-rwxrwxrwx 1 felexa felexa   117856 Mar 21 12:54 libEGL.dll
+-rwxrwxrwx 1 felexa felexa  4730976 Mar 21 12:54 libGLESv2.dll
+-rwxrwxrwx 1 felexa felexa 93511776 Mar 21 12:54 libcef.dll
+drwxrwxrwx 1 felexa felexa      512 Mar 13 23:38 locales
+-rwxrwxrwx 1 felexa felexa   450320 Mar 13 23:38 msvcp140.dll
+-rwxrwxrwx 1 felexa felexa    28952 Mar 13 23:38 msvcp140_1.dll
+-rwxrwxrwx 1 felexa felexa   173336 Mar 13 23:38 msvcp140_2.dll
+-rwxrwxrwx 1 felexa felexa    26392 Mar 13 23:38 msvcp140_codecvt_ids.dll
+-rwxrwxrwx 1 felexa felexa    83217 Mar 13 23:38 natives_blob.bin
+-rwxrwxrwx 1 felexa felexa   194688 Mar 13 23:38 ortp.dll
+-rwxrwxrwx 1 felexa felexa      392 Mar 22 13:36 patchline.json
+-rwxrwxrwx 1 felexa felexa 68554920 Mar 13 23:38 rc-win.enc
+-rwxrwxrwx 1 felexa felexa   489984 Mar 19 23:55 rc-win.uni
+-rwxrwxrwx 1 felexa felexa   285908 Mar 13 23:38 snapshot_blob.bin
+-rwxrwxrwx 1 felexa felexa    34328 Mar 19 23:55 system.yaml
+-rwxrwxrwx 1 felexa felexa  1168840 Mar 13 23:38 ucrtbase.dll
+-rwxrwxrwx 1 felexa felexa   609888 Mar 13 23:38 v8_context_snapshot.bin
+-rwxrwxrwx 1 felexa felexa    83224 Mar 13 23:38 vcruntime140.dll
+-rwxrwxrwx 1 felexa felexa    96116 Mar 13 23:38 views_mus_resources.pak
+-rwxrwxrwx 1 felexa felexa  4278912 Mar 13 23:38 vivoxsdk.dll
+
+./Riot Games/League of Legends/Config:
+total 84
+drwxrwxrwx 1 felexa felexa   512 Mar 14 23:39 Champions
+drwxrwxrwx 1 felexa felexa   512 Mar 14 00:27 Global
+-rwxrwxrwx 1 felexa felexa  2748 Mar 14 23:39 ItemSets.json
+-rwxrwxrwx 1 felexa felexa  2299 Mar 22 13:36 LCUAccountPreferences.yaml
+-rwxrwxrwx 1 felexa felexa  5205 Mar 22 13:36 LCULocalPreferences.yaml
+-rwxrwxrwx 1 felexa felexa  1367 Mar 22 14:05 LeagueClientSettings.yaml
+-rwxrwxrwx 1 felexa felexa  1932 Mar 22 13:39 PerksPreferences.yaml
+-rwxrwxrwx 1 felexa felexa 48748 Mar 22 14:05 PersistedSettings.json
+-rwxrwxrwx 1 felexa felexa  3212 Mar 22 14:02 game.cfg
+-rwxrwxrwx 1 felexa felexa  5015 Mar 15 22:52 input.ini
+
+./Riot Games/League of Legends/Config/Champions:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:39 Evelynn
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:39 Karthus
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:39 Lissandra
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:39 Morgana
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:39 Zyra
+
+./Riot Games/League of Legends/Config/Champions/Evelynn:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:39 Recommended
+
+./Riot Games/League of Legends/Config/Champions/Evelynn/Recommended:
+total 1
+-rwxrwxrwx 1 felexa felexa 569 Mar 14 23:39 RIOT_ItemSet_1.json
+
+./Riot Games/League of Legends/Config/Champions/Karthus:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:39 Recommended
+
+./Riot Games/League of Legends/Config/Champions/Karthus/Recommended:
+total 1
+-rwxrwxrwx 1 felexa felexa 521 Mar 14 23:39 RIOT_ItemSet_2.json
+
+./Riot Games/League of Legends/Config/Champions/Lissandra:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:39 Recommended
+
+./Riot Games/League of Legends/Config/Champions/Lissandra/Recommended:
+total 1
+-rwxrwxrwx 1 felexa felexa 550 Mar 14 23:39 RIOT_ItemSet_3.json
+
+./Riot Games/League of Legends/Config/Champions/Morgana:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:39 Recommended
+
+./Riot Games/League of Legends/Config/Champions/Morgana/Recommended:
+total 1
+-rwxrwxrwx 1 felexa felexa 521 Mar 14 23:39 RIOT_ItemSet_4.json
+
+./Riot Games/League of Legends/Config/Champions/Zyra:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:39 Recommended
+
+./Riot Games/League of Legends/Config/Champions/Zyra/Recommended:
+total 1
+-rwxrwxrwx 1 felexa felexa 540 Mar 14 23:39 RIOT_ItemSet_5.json
+
+./Riot Games/League of Legends/Config/Global:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 14 00:27 Recommended
+
+./Riot Games/League of Legends/Config/Global/Recommended:
+total 0
+
+./Riot Games/League of Legends/Cookies:
+total 20
+-rwxrwxrwx 1 felexa felexa 20480 Mar 14 00:50 Cookies
+-rwxrwxrwx 1 felexa felexa     0 Mar 14 00:50 Cookies-journal
+
+./Riot Games/League of Legends/DATA:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 14 00:27 CFG
+
+./Riot Games/League of Legends/DATA/CFG:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 14 00:27 defaults
+
+./Riot Games/League of Legends/DATA/CFG/defaults:
+total 4
+-rwxrwxrwx 1 felexa felexa 3420 Mar 22 13:36 SettingsToPersist.json
+
+./Riot Games/League of Legends/GPUCache:
+total 5188
+-rwxrwxrwx 1 felexa felexa   45056 Mar 22 14:05 data_0
+-rwxrwxrwx 1 felexa felexa  270336 Mar 22 14:05 data_1
+-rwxrwxrwx 1 felexa felexa    8192 Mar 14 00:27 data_2
+-rwxrwxrwx 1 felexa felexa 4202496 Mar 15 13:02 data_3
+-rwxrwxrwx 1 felexa felexa   22622 Mar 14 00:27 f_000001
+-rwxrwxrwx 1 felexa felexa   16806 Mar 14 00:27 f_000002
+-rwxrwxrwx 1 felexa felexa   16806 Mar 14 00:27 f_000003
+-rwxrwxrwx 1 felexa felexa   16693 Mar 14 00:28 f_000004
+-rwxrwxrwx 1 felexa felexa   16647 Mar 14 00:28 f_000005
+-rwxrwxrwx 1 felexa felexa   46592 Mar 14 00:28 f_000006
+-rwxrwxrwx 1 felexa felexa   17180 Mar 14 00:28 f_000007
+-rwxrwxrwx 1 felexa felexa   23229 Mar 14 00:28 f_000008
+-rwxrwxrwx 1 felexa felexa   17860 Mar 14 00:28 f_000009
+-rwxrwxrwx 1 felexa felexa   23229 Mar 14 00:28 f_00000a
+-rwxrwxrwx 1 felexa felexa   17171 Mar 14 00:29 f_00000b
+-rwxrwxrwx 1 felexa felexa   18068 Mar 14 00:29 f_00000c
+-rwxrwxrwx 1 felexa felexa   16665 Mar 14 00:30 f_00000d
+-rwxrwxrwx 1 felexa felexa   18019 Mar 14 00:33 f_00000e
+-rwxrwxrwx 1 felexa felexa   18948 Mar 14 00:34 f_00000f
+-rwxrwxrwx 1 felexa felexa   18948 Mar 14 00:34 f_000010
+-rwxrwxrwx 1 felexa felexa   17337 Mar 14 00:36 f_000011
+-rwxrwxrwx 1 felexa felexa   17544 Mar 14 23:41 f_000012
+-rwxrwxrwx 1 felexa felexa   17615 Mar 14 23:52 f_000013
+-rwxrwxrwx 1 felexa felexa   19390 Mar 14 23:52 f_000014
+-rwxrwxrwx 1 felexa felexa   17080 Mar 15 12:44 f_000015
+-rwxrwxrwx 1 felexa felexa   46592 Mar 16 00:19 f_000016
+-rwxrwxrwx 1 felexa felexa  262512 Mar 14 00:27 index
+
+./Riot Games/League of Legends/Game:
+total 49724
+-rwxrwxrwx 1 felexa felexa   328720 Mar 14 00:27 BsSndRpt.exe
+-rwxrwxrwx 1 felexa felexa   307216 Mar 14 00:27 BugSplat.dll
+-rwxrwxrwx 1 felexa felexa   190976 Mar 14 00:27 BugSplatRc.dll
+-rwxrwxrwx 1 felexa felexa  2106216 Mar 14 00:27 D3DCompiler_43.dll
+drwxrwxrwx 1 felexa felexa      512 Mar 14 00:27 DATA
+-rwxrwxrwx 1 felexa felexa 30092384 Mar 20 00:00 League of Legends.exe
+-rwxrwxrwx 1 felexa felexa   579168 Mar 20 00:00 LeagueCrashHandler.exe
+-rwxrwxrwx 1 felexa felexa    60408 Mar 14 23:45 LogitechGkey.dll
+-rwxrwxrwx 1 felexa felexa   115192 Mar 14 23:45 LogitechLed.dll
+-rwxrwxrwx 1 felexa felexa  8531264 Mar 14 23:45 cg.dll
+-rwxrwxrwx 1 felexa felexa       68 Mar 20 00:00 code-metadata.json
+-rwxrwxrwx 1 felexa felexa       72 Mar 20 00:00 content-metadata.json
+-rwxrwxrwx 1 felexa felexa  8581728 Mar 20 00:00 stub.dll
+
+./Riot Games/League of Legends/Game/DATA:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:45 FINAL
+
+./Riot Games/League of Legends/Game/DATA/FINAL:
+total 603004
+-rwxrwxrwx 1 felexa felexa  30889998 Mar 19 23:56 Bootstrap.wad.client
+drwxrwxrwx 1 felexa felexa       512 Mar 14 23:36 Champions
+-rwxrwxrwx 1 felexa felexa 239528417 Mar 19 23:58 DATA.wad.client
+-rwxrwxrwx 1 felexa felexa 150862410 Mar 19 23:58 DATA2.wad.client
+-rwxrwxrwx 1 felexa felexa 131724722 Mar 19 23:58 Global.wad.client
+drwxrwxrwx 1 felexa felexa       512 Mar 14 23:41 Localized
+drwxrwxrwx 1 felexa felexa       512 Mar 14 23:41 Maps
+-rwxrwxrwx 1 felexa felexa   3956964 Mar 19 23:59 Scripts.wad.client
+-rwxrwxrwx 1 felexa felexa   8561473 Mar 19 23:59 ShaderCache.dx9.wad.client
+-rwxrwxrwx 1 felexa felexa  10565267 Mar 19 23:59 ShaderCache.glsl.wad.client
+drwxrwxrwx 1 felexa felexa       512 Mar 14 23:45 Shaders
+-rwxrwxrwx 1 felexa felexa     41888 Mar 14 23:45 UI.en_GB.wad.client
+-rwxrwxrwx 1 felexa felexa     45560 Mar 14 23:45 UI.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  41273038 Mar 19 23:59 UI.wad.client
+
+./Riot Games/League of Legends/Game/DATA/FINAL/Champions:
+total 5851260
+-rwxrwxrwx 1 felexa felexa 37915230 Mar 14 00:28 Aatrox.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 46840521 Mar 14 00:47 Aatrox.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 34396749 Mar 19 23:56 Aatrox.wad.client
+-rwxrwxrwx 1 felexa felexa  7451300 Mar 14 00:28 Ahri.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  7454580 Mar 14 00:47 Ahri.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 35685930 Mar 19 23:56 Ahri.wad.client
+-rwxrwxrwx 1 felexa felexa  5609615 Mar 14 00:28 Akali.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  5855670 Mar 14 00:47 Akali.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 48456527 Mar 19 23:56 Akali.wad.client
+-rwxrwxrwx 1 felexa felexa   305681 Mar 14 00:28 Alistar.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa   473199 Mar 14 00:47 Alistar.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 20014625 Mar 19 23:56 Alistar.wad.client
+-rwxrwxrwx 1 felexa felexa   566705 Mar 14 00:28 Amumu.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa   549536 Mar 14 00:47 Amumu.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 21290955 Mar 19 23:56 Amumu.wad.client
+-rwxrwxrwx 1 felexa felexa  2596264 Mar 14 00:28 Anivia.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  3057432 Mar 14 00:47 Anivia.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 20825914 Mar 19 23:56 Anivia.wad.client
+-rwxrwxrwx 1 felexa felexa   757381 Mar 14 00:29 Annie.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa   695500 Mar 14 00:47 Annie.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 27536416 Mar 19 23:56 Annie.wad.client
+-rwxrwxrwx 1 felexa felexa 12641966 Mar 14 00:29 Aphelios.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 11711941 Mar 14 00:47 Aphelios.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 20158928 Mar 19 23:56 Aphelios.wad.client
+-rwxrwxrwx 1 felexa felexa 18474135 Mar 14 00:29 Ashe.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 23223237 Mar 14 00:47 Ashe.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 37241613 Mar 19 23:56 Ashe.wad.client
+-rwxrwxrwx 1 felexa felexa 21160054 Mar 14 00:29 AurelionSol.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 29461778 Mar 14 00:47 AurelionSol.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 30790714 Mar 19 23:56 AurelionSol.wad.client
+-rwxrwxrwx 1 felexa felexa  7870801 Mar 14 00:29 Azir.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 14378037 Mar 14 00:47 Azir.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 26167671 Mar 19 23:56 Azir.wad.client
+-rwxrwxrwx 1 felexa felexa  2906225 Mar 14 00:29 Bard.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  2906227 Mar 14 00:47 Bard.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 20804720 Mar 19 23:56 Bard.wad.client
+-rwxrwxrwx 1 felexa felexa  1802128 Mar 14 00:30 Blitzcrank.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  1642901 Mar 14 00:47 Blitzcrank.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 31136289 Mar 19 23:56 Blitzcrank.wad.client
+-rwxrwxrwx 1 felexa felexa  5122327 Mar 14 00:30 Brand.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  5832744 Mar 14 00:47 Brand.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 24387668 Mar 19 23:56 Brand.wad.client
+-rwxrwxrwx 1 felexa felexa  2604735 Mar 14 00:30 Braum.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  3201108 Mar 14 00:47 Braum.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 38968252 Mar 19 23:56 Braum.wad.client
+-rwxrwxrwx 1 felexa felexa  5575179 Mar 14 00:30 Caitlyn.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  6101037 Mar 14 00:47 Caitlyn.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 30428768 Mar 19 23:56 Caitlyn.wad.client
+-rwxrwxrwx 1 felexa felexa 27261473 Mar 14 00:30 Camille.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 32810710 Mar 14 00:47 Camille.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 16184815 Mar 19 23:56 Camille.wad.client
+-rwxrwxrwx 1 felexa felexa  5635205 Mar 14 00:30 Cassiopeia.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  6980933 Mar 14 00:47 Cassiopeia.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 15230403 Mar 14 00:30 Cassiopeia.wad.client
+-rwxrwxrwx 1 felexa felexa  4509107 Mar 19 23:56 Chogath.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  6651535 Mar 14 00:47 Chogath.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 17999584 Mar 19 23:56 Chogath.wad.client
+-rwxrwxrwx 1 felexa felexa   509408 Mar 14 00:30 Corki.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa   379993 Mar 14 00:47 Corki.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 19217135 Mar 19 23:56 Corki.wad.client
+-rwxrwxrwx 1 felexa felexa 14567095 Mar 14 00:30 Darius.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 17086797 Mar 14 00:47 Darius.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 39135793 Mar 19 23:56 Darius.wad.client
+-rwxrwxrwx 1 felexa felexa  1848178 Mar 19 23:56 Diana.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  2444403 Mar 14 00:47 Diana.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 31228414 Mar 19 23:56 Diana.wad.client
+-rwxrwxrwx 1 felexa felexa  1298494 Mar 14 00:31 DrMundo.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  1357292 Mar 14 00:47 DrMundo.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 12295310 Mar 19 23:56 DrMundo.wad.client
+-rwxrwxrwx 1 felexa felexa  8177374 Mar 14 00:31 Draven.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 11349071 Mar 14 00:47 Draven.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 25792159 Mar 19 23:56 Draven.wad.client
+-rwxrwxrwx 1 felexa felexa 10334295 Mar 14 00:31 Ekko.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 11356867 Mar 14 00:47 Ekko.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 53402372 Mar 19 23:56 Ekko.wad.client
+-rwxrwxrwx 1 felexa felexa  2201262 Mar 14 00:31 Elise.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  2453514 Mar 14 00:47 Elise.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 19893425 Mar 19 23:56 Elise.wad.client
+-rwxrwxrwx 1 felexa felexa 20900175 Mar 14 00:31 Evelynn.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 21959283 Mar 14 00:48 Evelynn.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 34234942 Mar 19 23:56 Evelynn.wad.client
+-rwxrwxrwx 1 felexa felexa 32893776 Mar 14 00:32 Ezreal.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 33396513 Mar 14 00:48 Ezreal.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 33011005 Mar 19 23:56 Ezreal.wad.client
+-rwxrwxrwx 1 felexa felexa  1218703 Mar 14 00:32 FiddleSticks.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  1308685 Mar 14 00:48 FiddleSticks.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 17775548 Mar 19 23:56 FiddleSticks.wad.client
+-rwxrwxrwx 1 felexa felexa  2368253 Mar 14 00:32 Fiora.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  1893167 Mar 14 00:48 Fiora.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 35218693 Mar 19 23:56 Fiora.wad.client
+-rwxrwxrwx 1 felexa felexa  2421505 Mar 14 00:32 Fizz.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  2729174 Mar 14 00:48 Fizz.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 26544264 Mar 19 23:56 Fizz.wad.client
+-rwxrwxrwx 1 felexa felexa 11155441 Mar 14 00:32 Galio.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 12575329 Mar 14 00:48 Galio.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 24977033 Mar 19 23:56 Galio.wad.client
+-rwxrwxrwx 1 felexa felexa 13436086 Mar 14 00:32 Gangplank.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 18100856 Mar 14 00:48 Gangplank.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 26862615 Mar 19 23:56 Gangplank.wad.client
+-rwxrwxrwx 1 felexa felexa  9879862 Mar 14 00:32 Garen.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 16084063 Mar 14 00:48 Garen.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 37326217 Mar 19 23:56 Garen.wad.client
+-rwxrwxrwx 1 felexa felexa  1593051 Mar 14 00:33 Gnar.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  1665342 Mar 14 00:48 Gnar.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 39644718 Mar 19 23:56 Gnar.wad.client
+-rwxrwxrwx 1 felexa felexa   906463 Mar 14 00:33 Gragas.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  1108931 Mar 14 00:48 Gragas.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 12761633 Mar 19 23:56 Gragas.wad.client
+-rwxrwxrwx 1 felexa felexa  1727124 Mar 14 00:33 Graves.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  1829567 Mar 14 00:48 Graves.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 27824016 Mar 19 23:56 Graves.wad.client
+-rwxrwxrwx 1 felexa felexa  3068218 Mar 14 00:33 Hecarim.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  3676554 Mar 14 00:48 Hecarim.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 24660445 Mar 19 23:56 Hecarim.wad.client
+-rwxrwxrwx 1 felexa felexa  7166125 Mar 14 00:33 Heimerdinger.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  7928609 Mar 14 00:48 Heimerdinger.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 22444452 Mar 19 23:56 Heimerdinger.wad.client
+-rwxrwxrwx 1 felexa felexa 25032661 Mar 14 00:34 Illaoi.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 25682281 Mar 14 00:48 Illaoi.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 23759819 Mar 19 23:56 Illaoi.wad.client
+-rwxrwxrwx 1 felexa felexa 31188593 Mar 14 00:34 Irelia.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 24989537 Mar 14 00:48 Irelia.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 51664952 Mar 19 23:56 Irelia.wad.client
+-rwxrwxrwx 1 felexa felexa 21009047 Mar 14 00:34 Ivern.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 25543055 Mar 14 00:48 Ivern.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 27874039 Mar 19 23:56 Ivern.wad.client
+-rwxrwxrwx 1 felexa felexa  1995770 Mar 14 00:36 Janna.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  2290928 Mar 14 00:48 Janna.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 35894499 Mar 19 23:56 Janna.wad.client
+-rwxrwxrwx 1 felexa felexa  3322996 Mar 14 00:36 JarvanIV.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  3824293 Mar 14 00:48 JarvanIV.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 23626456 Mar 19 23:56 JarvanIV.wad.client
+-rwxrwxrwx 1 felexa felexa  8787507 Mar 14 00:36 Jax.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 10614938 Mar 14 00:48 Jax.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 24050502 Mar 19 23:56 Jax.wad.client
+-rwxrwxrwx 1 felexa felexa  3343937 Mar 14 00:36 Jayce.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  4282939 Mar 14 00:48 Jayce.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 17677677 Mar 19 23:56 Jayce.wad.client
+-rwxrwxrwx 1 felexa felexa 29773385 Mar 14 00:44 Jhin.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 43892986 Mar 14 00:48 Jhin.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 44156100 Mar 19 23:56 Jhin.wad.client
+-rwxrwxrwx 1 felexa felexa 13392336 Mar 14 00:44 Jinx.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 15672419 Mar 14 00:48 Jinx.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 50650765 Mar 19 23:56 Jinx.wad.client
+-rwxrwxrwx 1 felexa felexa 40395503 Mar 14 00:44 Kaisa.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 39210054 Mar 14 00:49 Kaisa.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 36799943 Mar 19 23:56 Kaisa.wad.client
+-rwxrwxrwx 1 felexa felexa  5754216 Mar 14 00:44 Kalista.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  7534249 Mar 14 00:49 Kalista.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 17457855 Mar 19 23:56 Kalista.wad.client
+-rwxrwxrwx 1 felexa felexa  4597830 Mar 14 00:44 Karma.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  4829964 Mar 14 00:49 Karma.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 26701684 Mar 19 23:56 Karma.wad.client
+-rwxrwxrwx 1 felexa felexa 14614323 Mar 14 00:44 Karthus.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 11669064 Mar 14 00:49 Karthus.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 12954994 Mar 19 23:56 Karthus.wad.client
+-rwxrwxrwx 1 felexa felexa  1959482 Mar 14 00:44 Kassadin.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  1892618 Mar 14 00:49 Kassadin.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 13281863 Mar 14 00:44 Kassadin.wad.client
+-rwxrwxrwx 1 felexa felexa  3061185 Mar 14 00:44 Katarina.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  2863969 Mar 14 00:49 Katarina.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 30758314 Mar 19 23:56 Katarina.wad.client
+-rwxrwxrwx 1 felexa felexa 13283928 Mar 14 00:45 Kayle.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 15132095 Mar 14 00:49 Kayle.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 28125601 Mar 19 23:56 Kayle.wad.client
+-rwxrwxrwx 1 felexa felexa 25460000 Mar 14 00:45 Kayn.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 35662904 Mar 14 00:49 Kayn.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 22948134 Mar 19 23:56 Kayn.wad.client
+-rwxrwxrwx 1 felexa felexa   368953 Mar 14 00:45 Kennen.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa   397585 Mar 14 00:49 Kennen.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa  9496709 Mar 14 00:45 Kennen.wad.client
+-rwxrwxrwx 1 felexa felexa  4214812 Mar 14 00:45 Khazix.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  7583900 Mar 14 00:49 Khazix.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 41472287 Mar 19 23:56 Khazix.wad.client
+-rwxrwxrwx 1 felexa felexa  4364600 Mar 14 00:45 Kindred.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  5349744 Mar 14 00:49 Kindred.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 20702145 Mar 19 23:56 Kindred.wad.client
+-rwxrwxrwx 1 felexa felexa 12158403 Mar 14 00:45 Kled.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 16299928 Mar 14 00:49 Kled.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 24082949 Mar 19 23:56 Kled.wad.client
+-rwxrwxrwx 1 felexa felexa  2507460 Mar 14 00:45 KogMaw.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  2724790 Mar 14 00:49 KogMaw.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 27104253 Mar 19 23:56 KogMaw.wad.client
+-rwxrwxrwx 1 felexa felexa  1616116 Mar 14 00:46 Leblanc.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  1636548 Mar 14 00:49 Leblanc.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 24436631 Mar 19 23:56 Leblanc.wad.client
+-rwxrwxrwx 1 felexa felexa 15577695 Mar 14 00:50 LeeSin.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 16005977 Mar 14 00:49 LeeSin.ru_RU.wad.client
+-rwxrwxrwx 1 felexa felexa 31973294 Mar 19 23:56 LeeSin.wad.client
+-rwxrwxrwx 1 felexa felexa 10316999 Mar 14 00:50 Leona.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 35680086 Mar 19 23:56 Leona.wad.client
+-rwxrwxrwx 1 felexa felexa  2942718 Mar 14 00:50 Lissandra.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 21954494 Mar 19 23:56 Lissandra.wad.client
+-rwxrwxrwx 1 felexa felexa 19382236 Mar 14 00:50 Lucian.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 24244473 Mar 19 23:56 Lucian.wad.client
+-rwxrwxrwx 1 felexa felexa  2216786 Mar 14 00:50 Lulu.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 31530374 Mar 19 23:56 Lulu.wad.client
+-rwxrwxrwx 1 felexa felexa 30139081 Mar 19 23:56 Lux.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 53844555 Mar 19 23:57 Lux.wad.client
+-rwxrwxrwx 1 felexa felexa  2262834 Mar 19 23:57 Malphite.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 39271481 Mar 19 23:57 Malphite.wad.client
+-rwxrwxrwx 1 felexa felexa  2385212 Mar 14 00:54 Malzahar.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 22416164 Mar 19 23:57 Malzahar.wad.client
+-rwxrwxrwx 1 felexa felexa 13815424 Mar 14 00:54 Maokai.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 22194455 Mar 19 23:57 Maokai.wad.client
+-rwxrwxrwx 1 felexa felexa  9074652 Mar 14 00:54 MasterYi.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 31335600 Mar 19 23:57 MasterYi.wad.client
+-rwxrwxrwx 1 felexa felexa  7760769 Mar 14 00:54 MissFortune.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 40702261 Mar 19 23:57 MissFortune.wad.client
+-rwxrwxrwx 1 felexa felexa  5739995 Mar 14 00:59 MonkeyKing.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 17510901 Mar 19 23:57 MonkeyKing.wad.client
+-rwxrwxrwx 1 felexa felexa 13427130 Mar 19 23:57 Mordekaiser.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 21770159 Mar 19 23:57 Mordekaiser.wad.client
+-rwxrwxrwx 1 felexa felexa 11246992 Mar 14 00:59 Morgana.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 33335561 Mar 19 23:57 Morgana.wad.client
+-rwxrwxrwx 1 felexa felexa  4956389 Mar 14 00:59 Nami.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 32528995 Mar 19 23:57 Nami.wad.client
+-rwxrwxrwx 1 felexa felexa  4557889 Mar 14 01:00 Nasus.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 28927067 Mar 19 23:57 Nasus.wad.client
+-rwxrwxrwx 1 felexa felexa  1795229 Mar 14 01:00 Nautilus.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 11526390 Mar 19 23:57 Nautilus.wad.client
+-rwxrwxrwx 1 felexa felexa  4383527 Mar 14 01:00 Neeko.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 28618744 Mar 19 23:57 Neeko.wad.client
+-rwxrwxrwx 1 felexa felexa   406044 Mar 14 01:00 Nidalee.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 33617239 Mar 19 23:57 Nidalee.wad.client
+-rwxrwxrwx 1 felexa felexa  4860713 Mar 14 01:00 Nocturne.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 22079615 Mar 19 23:57 Nocturne.wad.client
+-rwxrwxrwx 1 felexa felexa 28788534 Mar 14 01:00 Nunu.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 33341285 Mar 19 23:57 Nunu.wad.client
+-rwxrwxrwx 1 felexa felexa  1713349 Mar 14 01:00 Olaf.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 19820314 Mar 19 23:57 Olaf.wad.client
+-rwxrwxrwx 1 felexa felexa   737727 Mar 14 01:00 Orianna.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 18499792 Mar 19 23:57 Orianna.wad.client
+-rwxrwxrwx 1 felexa felexa  4962593 Mar 14 01:01 Ornn.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 18531303 Mar 19 23:57 Ornn.wad.client
+-rwxrwxrwx 1 felexa felexa  8336307 Mar 14 01:01 Pantheon.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 27954029 Mar 19 23:57 Pantheon.wad.client
+-rwxrwxrwx 1 felexa felexa  3587223 Mar 14 01:01 Poppy.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 34741712 Mar 19 23:57 Poppy.wad.client
+-rwxrwxrwx 1 felexa felexa 16099385 Mar 14 01:02 Pyke.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 41586679 Mar 19 23:57 Pyke.wad.client
+-rwxrwxrwx 1 felexa felexa  9685442 Mar 14 01:02 Qiyana.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 20757307 Mar 19 23:57 Qiyana.wad.client
+-rwxrwxrwx 1 felexa felexa   710842 Mar 14 01:02 Quinn.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 16987943 Mar 19 23:57 Quinn.wad.client
+-rwxrwxrwx 1 felexa felexa 21770694 Mar 14 01:02 Rakan.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 39990415 Mar 19 23:57 Rakan.wad.client
+-rwxrwxrwx 1 felexa felexa   120434 Mar 14 01:03 Rammus.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 14962363 Mar 19 23:57 Rammus.wad.client
+-rwxrwxrwx 1 felexa felexa  5303978 Mar 14 01:03 RekSai.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 30869383 Mar 19 23:57 RekSai.wad.client
+-rwxrwxrwx 1 felexa felexa  1988955 Mar 14 01:03 Renekton.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 31360074 Mar 19 23:57 Renekton.wad.client
+-rwxrwxrwx 1 felexa felexa  5916238 Mar 14 01:03 Rengar.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 35620997 Mar 19 23:57 Rengar.wad.client
+-rwxrwxrwx 1 felexa felexa  8563589 Mar 14 01:03 Riven.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 35724541 Mar 19 23:57 Riven.wad.client
+-rwxrwxrwx 1 felexa felexa  4250731 Mar 14 01:03 Rumble.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 17664336 Mar 19 23:57 Rumble.wad.client
+-rwxrwxrwx 1 felexa felexa  3772291 Mar 14 01:03 Ryze.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 22753287 Mar 19 23:57 Ryze.wad.client
+-rwxrwxrwx 1 felexa felexa      272 Mar 14 01:03 SG_ChoGath.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  1798767 Mar 14 01:03 SG_ChoGath.wad.client
+-rwxrwxrwx 1 felexa felexa      272 Mar 14 01:03 SG_KhaZix.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  2872017 Mar 14 01:03 SG_KhaZix.wad.client
+-rwxrwxrwx 1 felexa felexa      272 Mar 14 01:03 SG_KogMaw.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  3792609 Mar 19 23:57 SG_KogMaw.wad.client
+-rwxrwxrwx 1 felexa felexa      272 Mar 14 01:03 SG_RekSai.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  6036728 Mar 19 23:57 SG_RekSai.wad.client
+-rwxrwxrwx 1 felexa felexa      272 Mar 14 01:03 SG_Skarner.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  3839573 Mar 19 23:57 SG_Skarner.wad.client
+-rwxrwxrwx 1 felexa felexa      272 Mar 14 01:03 SG_VelKoz.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  4227251 Mar 14 01:03 SG_VelKoz.wad.client
+-rwxrwxrwx 1 felexa felexa  1879461 Mar 14 01:03 Sejuani.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 32806093 Mar 19 23:57 Sejuani.wad.client
+-rwxrwxrwx 1 felexa felexa  5921885 Mar 14 01:04 Senna.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 17651710 Mar 19 23:57 Senna.wad.client
+-rwxrwxrwx 1 felexa felexa 11889100 Mar 14 01:04 Sett.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 14414771 Mar 19 23:57 Sett.wad.client
+-rwxrwxrwx 1 felexa felexa  1977341 Mar 14 01:04 Shaco.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 13745369 Mar 19 23:57 Shaco.wad.client
+-rwxrwxrwx 1 felexa felexa   679679 Mar 14 01:04 Shen.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 21124295 Mar 19 23:57 Shen.wad.client
+-rwxrwxrwx 1 felexa felexa  1968624 Mar 14 01:04 Shyvana.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 18913098 Mar 19 23:57 Shyvana.wad.client
+-rwxrwxrwx 1 felexa felexa   315431 Mar 14 01:04 Singed.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 14474449 Mar 19 23:57 Singed.wad.client
+-rwxrwxrwx 1 felexa felexa 15194425 Mar 14 01:04 Sion.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 19336022 Mar 19 23:57 Sion.wad.client
+-rwxrwxrwx 1 felexa felexa  1436753 Mar 14 01:04 Sivir.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 28744692 Mar 19 23:57 Sivir.wad.client
+-rwxrwxrwx 1 felexa felexa  3223838 Mar 14 01:04 Skarner.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 14708521 Mar 19 23:57 Skarner.wad.client
+-rwxrwxrwx 1 felexa felexa  6594857 Mar 14 01:04 Sona.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 98215148 Mar 19 23:57 Sona.wad.client
+-rwxrwxrwx 1 felexa felexa 12417510 Mar 14 01:05 Soraka.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 40197333 Mar 19 23:57 Soraka.wad.client
+-rwxrwxrwx 1 felexa felexa 30060105 Mar 14 01:05 Swain.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 35717806 Mar 19 23:57 Swain.wad.client
+-rwxrwxrwx 1 felexa felexa  5023558 Mar 14 01:05 Sylas.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 21022349 Mar 19 23:57 Sylas.wad.client
+-rwxrwxrwx 1 felexa felexa  1558424 Mar 14 01:05 Syndra.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 20526413 Mar 19 23:57 Syndra.wad.client
+-rwxrwxrwx 1 felexa felexa      272 Mar 14 01:06 TFTChampion.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa     4481 Mar 14 01:06 TFTChampion.wad.client
+-rwxrwxrwx 1 felexa felexa  7356172 Mar 14 01:06 TahmKench.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 21476982 Mar 19 23:57 TahmKench.wad.client
+-rwxrwxrwx 1 felexa felexa 10290991 Mar 14 01:06 Taliyah.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 16341804 Mar 14 01:06 Taliyah.wad.client
+-rwxrwxrwx 1 felexa felexa   684502 Mar 14 01:06 Talon.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 23208567 Mar 19 23:58 Talon.wad.client
+-rwxrwxrwx 1 felexa felexa  5734584 Mar 14 01:06 Taric.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 22259374 Mar 19 23:58 Taric.wad.client
+-rwxrwxrwx 1 felexa felexa  3071273 Mar 14 01:06 Teemo.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 19272011 Mar 19 23:58 Teemo.wad.client
+-rwxrwxrwx 1 felexa felexa  9762155 Mar 14 23:34 Thresh.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 39879977 Mar 19 23:58 Thresh.wad.client
+-rwxrwxrwx 1 felexa felexa 11968232 Mar 14 23:34 Tristana.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 33182961 Mar 19 23:58 Tristana.wad.client
+-rwxrwxrwx 1 felexa felexa  2309465 Mar 14 23:34 Trundle.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 18328872 Mar 19 23:58 Trundle.wad.client
+-rwxrwxrwx 1 felexa felexa  2082363 Mar 14 23:34 Tryndamere.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 21522988 Mar 19 23:58 Tryndamere.wad.client
+-rwxrwxrwx 1 felexa felexa  1254310 Mar 14 23:34 TwistedFate.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 17054557 Mar 19 23:58 TwistedFate.wad.client
+-rwxrwxrwx 1 felexa felexa  8766041 Mar 19 23:58 Twitch.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 31676844 Mar 19 23:58 Twitch.wad.client
+-rwxrwxrwx 1 felexa felexa  2981568 Mar 14 23:34 Udyr.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 21915109 Mar 19 23:58 Udyr.wad.client
+-rwxrwxrwx 1 felexa felexa 26840733 Mar 14 23:34 Urgot.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 25553531 Mar 19 23:58 Urgot.wad.client
+-rwxrwxrwx 1 felexa felexa  2078924 Mar 14 23:34 Varus.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 28511699 Mar 19 23:58 Varus.wad.client
+-rwxrwxrwx 1 felexa felexa 20319515 Mar 14 23:34 Vayne.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 20403369 Mar 19 23:58 Vayne.wad.client
+-rwxrwxrwx 1 felexa felexa  4873763 Mar 14 23:34 Veigar.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 21113675 Mar 19 23:58 Veigar.wad.client
+-rwxrwxrwx 1 felexa felexa  9110755 Mar 14 23:34 Velkoz.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 17440909 Mar 19 23:58 Velkoz.wad.client
+-rwxrwxrwx 1 felexa felexa  3984990 Mar 14 23:35 Vi.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 27050147 Mar 19 23:58 Vi.wad.client
+-rwxrwxrwx 1 felexa felexa  1052740 Mar 14 23:35 Viktor.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 15805319 Mar 19 23:58 Viktor.wad.client
+-rwxrwxrwx 1 felexa felexa  4420329 Mar 14 23:35 Vladimir.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 31450938 Mar 19 23:58 Vladimir.wad.client
+-rwxrwxrwx 1 felexa felexa  1176316 Mar 14 23:35 Volibear.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa  7655285 Mar 14 23:35 Volibear.wad.client
+-rwxrwxrwx 1 felexa felexa 16308420 Mar 14 23:35 Warwick.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 39418177 Mar 19 23:58 Warwick.wad.client
+-rwxrwxrwx 1 felexa felexa 15182202 Mar 14 23:35 Xayah.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 39555169 Mar 19 23:58 Xayah.wad.client
+-rwxrwxrwx 1 felexa felexa  7919319 Mar 19 23:58 Xerath.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 21536328 Mar 19 23:58 Xerath.wad.client
+-rwxrwxrwx 1 felexa felexa  2792689 Mar 14 23:35 XinZhao.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 18824357 Mar 19 23:58 XinZhao.wad.client
+-rwxrwxrwx 1 felexa felexa 18638879 Mar 14 23:35 Yasuo.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 44236763 Mar 19 23:58 Yasuo.wad.client
+-rwxrwxrwx 1 felexa felexa  7330801 Mar 14 23:35 Yorick.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 31394467 Mar 19 23:58 Yorick.wad.client
+-rwxrwxrwx 1 felexa felexa  4637155 Mar 14 23:35 Yuumi.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 27276157 Mar 19 23:58 Yuumi.wad.client
+-rwxrwxrwx 1 felexa felexa  1627165 Mar 14 23:35 Zac.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 18413722 Mar 19 23:58 Zac.wad.client
+-rwxrwxrwx 1 felexa felexa 10845516 Mar 14 23:36 Zed.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 27971322 Mar 19 23:58 Zed.wad.client
+-rwxrwxrwx 1 felexa felexa  2513868 Mar 14 23:36 Ziggs.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 31158366 Mar 19 23:58 Ziggs.wad.client
+-rwxrwxrwx 1 felexa felexa   370164 Mar 14 23:36 Zilean.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 16473184 Mar 19 23:58 Zilean.wad.client
+-rwxrwxrwx 1 felexa felexa 24607548 Mar 19 23:58 Zoe.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 29693462 Mar 19 23:58 Zoe.wad.client
+-rwxrwxrwx 1 felexa felexa   902972 Mar 14 23:36 Zyra.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 21626939 Mar 19 23:58 Zyra.wad.client
+
+./Riot Games/League of Legends/Game/DATA/FINAL/Localized:
+total 1848
+-rwxrwxrwx 1 felexa felexa 948643 Mar 19 23:58 Global.en_GB.wad.client
+-rwxrwxrwx 1 felexa felexa 941433 Mar 19 23:58 Global.en_US.wad.client
+
+./Riot Games/League of Legends/Game/DATA/FINAL/Maps:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:44 Shipping
+
+./Riot Games/League of Legends/Game/DATA/FINAL/Maps/Shipping:
+total 1888608
+-rwxrwxrwx 1 felexa felexa    216605 Mar 14 23:41 Common.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 108483535 Mar 19 23:58 Common.wad.client
+-rwxrwxrwx 1 felexa felexa       308 Mar 14 23:41 CommonLEVELS.wad.client
+-rwxrwxrwx 1 felexa felexa  39990712 Mar 14 23:41 Map11.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 520237264 Mar 19 23:58 Map11.wad.client
+-rwxrwxrwx 1 felexa felexa 427524696 Mar 14 23:44 Map11LEVELS.wad.client
+-rwxrwxrwx 1 felexa felexa 101613846 Mar 14 23:44 Map12.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 247368960 Mar 19 23:58 Map12.wad.client
+-rwxrwxrwx 1 felexa felexa   2373205 Mar 14 23:44 Map12LEVELS.wad.client
+-rwxrwxrwx 1 felexa felexa   6144426 Mar 19 23:58 Map22.en_US.wad.client
+-rwxrwxrwx 1 felexa felexa 479069041 Mar 19 23:59 Map22.wad.client
+-rwxrwxrwx 1 felexa felexa    882137 Mar 14 23:45 Map22LEVELS.wad.client
+
+./Riot Games/League of Legends/Game/DATA/FINAL/Shaders:
+total 8120
+-rwxrwxrwx 1 felexa felexa 8311385 Mar 19 23:59 Shaders.wad.client
+
+./Riot Games/League of Legends/Logs:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 22 13:39 GameCrashes
+drwxrwxrwx 1 felexa felexa 512 Mar 22 13:39 GameLogs
+drwxrwxrwx 1 felexa felexa 512 Mar 22 13:36 LeagueClient Logs
+drwxrwxrwx 1 felexa felexa 512 Mar 15 12:53 Performance Logs
+
+./Riot Games/League of Legends/Logs/GameCrashes:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 22 13:39 attachments
+-rwxrwxrwx 1 felexa felexa   0 Mar 14 23:52 metadata
+drwxrwxrwx 1 felexa felexa 512 Mar 22 13:39 reports
+-rwxrwxrwx 1 felexa felexa  40 Mar 22 13:39 settings.dat
+
+./Riot Games/League of Legends/Logs/GameCrashes/attachments:
+total 0
+
+./Riot Games/League of Legends/Logs/GameCrashes/reports:
+total 0
+
+./Riot Games/League of Legends/Logs/GameLogs:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 14 23:56 2020-03-14T23-52-40
+drwxrwxrwx 1 felexa felexa 512 Mar 15 00:11 2020-03-15T00-11-54
+drwxrwxrwx 1 felexa felexa 512 Mar 15 00:27 2020-03-15T00-25-53
+drwxrwxrwx 1 felexa felexa 512 Mar 15 00:35 2020-03-15T00-35-28
+drwxrwxrwx 1 felexa felexa 512 Mar 15 12:47 2020-03-15T12-44-54
+drwxrwxrwx 1 felexa felexa 512 Mar 15 12:56 2020-03-15T12-54-42
+drwxrwxrwx 1 felexa felexa 512 Mar 15 16:59 2020-03-15T16-58-56
+drwxrwxrwx 1 felexa felexa 512 Mar 15 22:51 2020-03-15T22-51-30
+drwxrwxrwx 1 felexa felexa 512 Mar 15 23:40 2020-03-15T23-40-26
+drwxrwxrwx 1 felexa felexa 512 Mar 16 00:26 2020-03-16T00-26-03
+drwxrwxrwx 1 felexa felexa 512 Mar 16 23:16 2020-03-16T23-16-31
+drwxrwxrwx 1 felexa felexa 512 Mar 20 00:08 2020-03-20T00-07-36
+drwxrwxrwx 1 felexa felexa 512 Mar 21 12:58 2020-03-21T12-58-23
+drwxrwxrwx 1 felexa felexa 512 Mar 21 13:28 2020-03-21T13-27-51
+drwxrwxrwx 1 felexa felexa 512 Mar 21 23:36 2020-03-21T23-36-12
+drwxrwxrwx 1 felexa felexa 512 Mar 22 13:40 2020-03-22T13-39-48
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-14T23-52-40:
+total 40
+-rwxrwxrwx 1 felexa felexa  4698 Mar 15 00:03 2020-03-14T23-52-40_netlog.txt
+-rwxrwxrwx 1 felexa felexa  3188 Mar 15 00:03 2020-03-14T23-52-40_netstats.csv
+-rwxrwxrwx 1 felexa felexa 24976 Mar 15 00:06 2020-03-14T23-52-40_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-15T00-11-54:
+total 8
+-rwxrwxrwx 1 felexa felexa 4205 Mar 15 00:13 2020-03-15T00-11-54_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-15T00-25-53:
+total 24
+-rwxrwxrwx 1 felexa felexa 4182 Mar 15 00:31 2020-03-15T00-25-53_netlog.txt
+-rwxrwxrwx 1 felexa felexa 2217 Mar 15 00:31 2020-03-15T00-25-53_netstats.csv
+-rwxrwxrwx 1 felexa felexa 8362 Mar 15 00:25 2020-03-15T00-25-53_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-15T00-35-28:
+total 8
+-rwxrwxrwx 1 felexa felexa 4209 Mar 15 00:37 2020-03-15T00-35-28_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-15T12-44-54:
+total 24
+-rwxrwxrwx 1 felexa felexa  5118 Mar 15 12:53 2020-03-15T12-44-54_netlog.txt
+-rwxrwxrwx 1 felexa felexa  3772 Mar 15 12:53 2020-03-15T12-44-54_netstats.csv
+-rwxrwxrwx 1 felexa felexa 12242 Mar 15 12:53 2020-03-15T12-44-54_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-15T12-54-42:
+total 24
+-rwxrwxrwx 1 felexa felexa  4383 Mar 15 13:02 2020-03-15T12-54-42_netlog.txt
+-rwxrwxrwx 1 felexa felexa  2355 Mar 15 13:02 2020-03-15T12-54-42_netstats.csv
+-rwxrwxrwx 1 felexa felexa 11701 Mar 15 13:02 2020-03-15T12-54-42_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-15T16-58-56:
+total 24
+-rwxrwxrwx 1 felexa felexa  4334 Mar 15 17:00 2020-03-15T16-58-56_netlog.txt
+-rwxrwxrwx 1 felexa felexa  2339 Mar 15 17:00 2020-03-15T16-58-56_netstats.csv
+-rwxrwxrwx 1 felexa felexa 11186 Mar 15 17:00 2020-03-15T16-58-56_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-15T22-51-30:
+total 104
+-rwxrwxrwx 1 felexa felexa 33354 Mar 15 23:38 2020-03-15T22-51-30_netlog.txt
+-rwxrwxrwx 1 felexa felexa 53280 Mar 15 23:38 2020-03-15T22-51-30_netstats.csv
+-rwxrwxrwx 1 felexa felexa 11395 Mar 15 23:38 2020-03-15T22-51-30_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-15T23-40-26:
+total 84
+-rwxrwxrwx 1 felexa felexa 27625 Mar 16 00:19 2020-03-15T23-40-26_netlog.txt
+-rwxrwxrwx 1 felexa felexa 44023 Mar 16 00:19 2020-03-15T23-40-26_netstats.csv
+-rwxrwxrwx 1 felexa felexa 11253 Mar 16 00:19 2020-03-15T23-40-26_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-16T00-26-03:
+total 72
+-rwxrwxrwx 1 felexa felexa 22468 Mar 16 00:56 2020-03-16T00-26-03_netlog.txt
+-rwxrwxrwx 1 felexa felexa 34702 Mar 16 00:56 2020-03-16T00-26-03_netstats.csv
+-rwxrwxrwx 1 felexa felexa 11137 Mar 16 00:56 2020-03-16T00-26-03_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-16T23-16-31:
+total 84
+-rwxrwxrwx 1 felexa felexa 22638 Mar 16 23:47 2020-03-16T23-16-31_netlog.txt
+-rwxrwxrwx 1 felexa felexa 34932 Mar 16 23:47 2020-03-16T23-16-31_netstats.csv
+-rwxrwxrwx 1 felexa felexa 20916 Mar 16 23:47 2020-03-16T23-16-31_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-20T00-07-36:
+total 64
+-rwxrwxrwx 1 felexa felexa 15265 Mar 20 00:27 2020-03-20T00-07-36_netlog.txt
+-rwxrwxrwx 1 felexa felexa 22062 Mar 20 00:27 2020-03-20T00-07-36_netstats.csv
+-rwxrwxrwx 1 felexa felexa 20498 Mar 20 00:27 2020-03-20T00-07-36_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-21T12-58-23:
+total 68
+-rwxrwxrwx 1 felexa felexa 17230 Mar 21 13:20 2020-03-21T12-58-23_netlog.txt
+-rwxrwxrwx 1 felexa felexa 25478 Mar 21 13:20 2020-03-21T12-58-23_netstats.csv
+-rwxrwxrwx 1 felexa felexa 20392 Mar 21 13:20 2020-03-21T12-58-23_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-21T13-27-51:
+total 68
+-rwxrwxrwx 1 felexa felexa 20693 Mar 21 13:55 2020-03-21T13-27-51_netlog.txt
+-rwxrwxrwx 1 felexa felexa 31977 Mar 21 13:55 2020-03-21T13-27-51_netstats.csv
+-rwxrwxrwx 1 felexa felexa 11920 Mar 21 13:56 2020-03-21T13-27-51_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-21T23-36-12:
+total 84
+-rwxrwxrwx 1 felexa felexa 25197 Mar 22 00:11 2020-03-21T23-36-12_netlog.txt
+-rwxrwxrwx 1 felexa felexa 39228 Mar 22 00:11 2020-03-21T23-36-12_netstats.csv
+-rwxrwxrwx 1 felexa felexa 12580 Mar 22 00:11 2020-03-21T23-36-12_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/GameLogs/2020-03-22T13-39-48:
+total 60
+-rwxrwxrwx 1 felexa felexa 17423 Mar 22 14:02 2020-03-22T13-39-48_netlog.txt
+-rwxrwxrwx 1 felexa felexa 25952 Mar 22 14:02 2020-03-22T13-39-48_netstats.csv
+-rwxrwxrwx 1 felexa felexa 11931 Mar 22 14:02 2020-03-22T13-39-48_r3dlog.txt
+
+./Riot Games/League of Legends/Logs/LeagueClient Logs:
+total 39080
+-rwxrwxrwx 1 felexa felexa 3036900 Mar 15 13:02 2020-03-15T12-41-10_11012_LeagueClient-tracing.json
+-rwxrwxrwx 1 felexa felexa 2287298 Mar 15 17:00 2020-03-15T16-57-44_9256_LeagueClient-tracing.json
+-rwxrwxrwx 1 felexa felexa  269913 Mar 15 17:00 2020-03-15T16-57-44_9256_LeagueClient.log
+-rwxrwxrwx 1 felexa felexa  246992 Mar 15 17:00 2020-03-15T16-57-45_6140_LeagueClientUx.log
+-rwxrwxrwx 1 felexa felexa    6277 Mar 15 17:00 2020-03-15T16-57-49_11028_LeagueClientUxHelper-renderer.log
+-rwxrwxrwx 1 felexa felexa 3848537 Mar 16 00:22 2020-03-15T22-49-27_9776_LeagueClient-tracing.json
+-rwxrwxrwx 1 felexa felexa  424500 Mar 16 00:22 2020-03-15T22-49-27_9776_LeagueClient.log
+-rwxrwxrwx 1 felexa felexa  392474 Mar 16 00:22 2020-03-15T22-49-28_3368_LeagueClientUx.log
+-rwxrwxrwx 1 felexa felexa   14734 Mar 16 00:22 2020-03-15T22-49-32_6220_LeagueClientUxHelper-renderer.log
+-rwxrwxrwx 1 felexa felexa  431230 Mar 16 01:02 2020-03-16T00-24-37_11816_LeagueClientUx.log
+-rwxrwxrwx 1 felexa felexa 2989195 Mar 16 01:02 2020-03-16T00-24-37_2676_LeagueClient-tracing.json
+-rwxrwxrwx 1 felexa felexa  380065 Mar 16 01:02 2020-03-16T00-24-37_2676_LeagueClient.log
+-rwxrwxrwx 1 felexa felexa   12496 Mar 16 01:02 2020-03-16T00-24-40_6992_LeagueClientUxHelper-renderer.log
+-rwxrwxrwx 1 felexa felexa 3517309 Mar 16 23:50 2020-03-16T23-13-12_5112_LeagueClient-tracing.json
+-rwxrwxrwx 1 felexa felexa  454899 Mar 16 23:50 2020-03-16T23-13-12_5112_LeagueClient.log
+-rwxrwxrwx 1 felexa felexa  529783 Mar 16 23:50 2020-03-16T23-13-14_11352_LeagueClientUx.log
+-rwxrwxrwx 1 felexa felexa   11229 Mar 16 23:50 2020-03-16T23-13-17_6280_LeagueClientUxHelper-renderer.log
+-rwxrwxrwx 1 felexa felexa 1572186 Mar 19 23:56 2020-03-19T23-55-56_5200_LeagueClient-tracing.json
+-rwxrwxrwx 1 felexa felexa  552552 Mar 19 23:56 2020-03-19T23-55-56_5200_LeagueClient.log
+-rwxrwxrwx 1 felexa felexa  111869 Mar 19 23:56 2020-03-19T23-55-58_11572_LeagueClientUx.log
+-rwxrwxrwx 1 felexa felexa    2958 Mar 19 23:56 2020-03-19T23-55-58_792_LeagueClientUxHelper-gpu-process.log
+-rwxrwxrwx 1 felexa felexa    4181 Mar 19 23:56 2020-03-19T23-56-01_4540_LeagueClientUxHelper-renderer.log
+-rwxrwxrwx 1 felexa felexa  329021 Mar 20 00:29 2020-03-19T23-57-18_11568_LeagueClientUx.log
+-rwxrwxrwx 1 felexa felexa 4638155 Mar 20 00:29 2020-03-19T23-57-18_1744_LeagueClient-tracing.json
+-rwxrwxrwx 1 felexa felexa 1748461 Mar 20 00:29 2020-03-19T23-57-18_1744_LeagueClient.log
+-rwxrwxrwx 1 felexa felexa    3719 Mar 20 00:28 2020-03-19T23-57-18_8484_LeagueClientUxHelper-gpu-process.log
+-rwxrwxrwx 1 felexa felexa   10711 Mar 20 00:29 2020-03-19T23-57-21_5188_LeagueClientUxHelper-renderer.log
+-rwxrwxrwx 1 felexa felexa    3242 Mar 19 23:57 2020-03-19T23-57-33_2624_LeagueClientUxHelper-gpu-process.log
+-rwxrwxrwx 1 felexa felexa 4269517 Mar 21 13:56 2020-03-21T12-54-42_12148_LeagueClient-tracing.json
+-rwxrwxrwx 1 felexa felexa  495044 Mar 21 13:56 2020-03-21T12-54-42_12148_LeagueClient.log
+-rwxrwxrwx 1 felexa felexa  419386 Mar 21 13:56 2020-03-21T12-54-43_8036_LeagueClientUx.log
+-rwxrwxrwx 1 felexa felexa    4556 Mar 21 13:56 2020-03-21T12-54-44_1072_LeagueClientUxHelper-gpu-process.log
+-rwxrwxrwx 1 felexa felexa   14403 Mar 21 13:56 2020-03-21T12-54-47_6292_LeagueClientUxHelper-renderer.log
+-rwxrwxrwx 1 felexa felexa    3242 Mar 21 12:54 2020-03-21T12-54-59_2284_LeagueClientUxHelper-gpu-process.log
+-rwxrwxrwx 1 felexa felexa 2953382 Mar 22 00:11 2020-03-21T23-34-12_10644_LeagueClient-tracing.json
+-rwxrwxrwx 1 felexa felexa  304342 Mar 22 00:11 2020-03-21T23-34-12_10644_LeagueClient.log
+-rwxrwxrwx 1 felexa felexa  278433 Mar 22 00:11 2020-03-21T23-34-13_736_LeagueClientUx.log
+-rwxrwxrwx 1 felexa felexa    3526 Mar 22 00:11 2020-03-21T23-34-14_11972_LeagueClientUxHelper-gpu-process.log
+-rwxrwxrwx 1 felexa felexa    8908 Mar 22 00:11 2020-03-21T23-34-18_6916_LeagueClientUxHelper-renderer.log
+-rwxrwxrwx 1 felexa felexa    3240 Mar 21 23:34 2020-03-21T23-34-28_2876_LeagueClientUxHelper-gpu-process.log
+-rwxrwxrwx 1 felexa felexa 2779372 Mar 22 14:05 2020-03-22T13-36-24_1052_LeagueClient-tracing.json
+-rwxrwxrwx 1 felexa felexa  288131 Mar 22 14:05 2020-03-22T13-36-24_1052_LeagueClient.log
+-rwxrwxrwx 1 felexa felexa  262437 Mar 22 14:05 2020-03-22T13-36-26_5664_LeagueClientUx.log
+-rwxrwxrwx 1 felexa felexa    4040 Mar 22 14:05 2020-03-22T13-36-26_6804_LeagueClientUxHelper-gpu-process.log
+-rwxrwxrwx 1 felexa felexa    7598 Mar 22 14:03 2020-03-22T13-36-30_3008_LeagueClientUxHelper-renderer.log
+-rwxrwxrwx 1 felexa felexa    3240 Mar 22 13:36 2020-03-22T13-36-41_5812_LeagueClientUxHelper-gpu-process.log
+
+./Riot Games/League of Legends/Logs/Performance Logs:
+total 2412
+-rwxrwxrwx 1 felexa felexa 2468471 Mar 22 14:02 League_PerfDump.rpd
+
+./Riot Games/League of Legends/Plugins:
+total 32
+-rwxrwxrwx 1 felexa felexa 28809 Mar 19 23:54 plugin-manifest.json
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-client-config
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-client-config-dep-injector
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-entitlements
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-gcloud-voice-chat
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-account-verification
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-acs
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-active-boosts
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-banners
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-career-stats
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-catalog
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-champ-select
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-champ-select-legacy
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-champions
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-chat
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-clash
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-clubs
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-clubs-public
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-collections
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-content-targeting
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-cosmetics
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-disambiguation
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-discord-rp
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-email-verification
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-end-of-game
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-esport-stream-notifications
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-featured-modes
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:31 rcp-be-lol-game-client-chat
+drwxrwxrwx 1 felexa felexa   512 Mar 14 23:33 rcp-be-lol-game-data
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-game-queues
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-game-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-gameflow
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-gamhs
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-geoinfo
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-heartbeat
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-highlights
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-honor-v2
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-inventory
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-item-sets
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-kickout
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-kr-playtime-reminder
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-kr-shutdown-law
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-league-session
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-leaver-buster
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-license-agreement
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-loadouts
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-lobby
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-lobby-team-builder
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-login
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-loot
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-loyalty
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-maps
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-match-history
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-matchmaking
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-missions
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-mode-progression
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-npe-rewards
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-npe-tutorial-path
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-patch
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-perks
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-personalized-offers
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-pft
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-platform-config
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-player-behavior
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-player-level-up
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-player-messaging
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-player-preferences
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-pre-end-of-game
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-premade-voice
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-purchase-widget
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-queue-eligibility
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-ranked
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-recommendations
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-regalia
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-replays
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-riot-messaging-service
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-riotclient-upgrader
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-rso-auth
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-service-status
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-shutdown
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-simple-dialog-messages
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-spectator
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-statstones
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-store
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-suggested-players
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-summoner
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-tencent-antiaddiction
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-tencent-qt
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-trophies
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-user-experience
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-lol-worlds-token-card
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-patcher
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-payments
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-player-notifications
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-recofriender
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-riot-messaging-service
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-sanitizer
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-be-voice-chat
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-app-controls
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-audio
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-common-libs
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-ember-libs
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-language-filter
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lcu-bootstrap-ui
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-account-verification
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-account-verification-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-career-stats
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-champ-select
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-champ-select-skip
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-champion-details
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-champion-mastery-notifications
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-champion-statistics
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-chat-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-clash
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-club-tag-components
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-clubs
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-collections
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-content-targeting-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-disambiguation
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-email-verification
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-emote-panel
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:36 rcp-fe-lol-esports-spectate
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-eternals
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-friend-finder
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-game-in-progress
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-game-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-general-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-highlights
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-home
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-home-registry
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-honor
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-hover-card
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-item-sets
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-kickout
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-l10n
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-league-tier-names
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-leagues
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-license-agreement
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-license-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-loading-screen
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-lock-and-load
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-login
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-loot
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-match-history
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-matchmaking-notifications
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-missions
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-navigation
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-new-player-experience
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-notification-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-npe-first-touch
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-npe-rewards
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-parties
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-paw
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-perks
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-personalized-offers
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-pft
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-player-messaging
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-player-notifications
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-postgame
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-premade-voice
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-profiles
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-reconnect-notification
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-regalia
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-replays
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-replays-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-reward-notifications
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-simple-dialog-messages
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-skins-picker
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-social
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-social-avatar
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:37 rcp-fe-lol-sound-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-lol-splash
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-lol-startup
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-lol-static-assets
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-lol-store
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-lol-summoner-icon-picker
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-lol-tencent-qt
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-lol-tft
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-lol-typekit
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-lol-uikit
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-lol-user-experience-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-lol-voice-settings
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-payments
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-plugin-runner
+drwxrwxrwx 1 felexa felexa   512 Mar 13 23:38 rcp-fe-viewport
+
+./Riot Games/League of Legends/Plugins/rcp-be-client-config:
+total 0
+-rwxrwxrwx 1 felexa felexa 311 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-client-config-dep-injector:
+total 0
+-rwxrwxrwx 1 felexa felexa 480 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-entitlements:
+total 0
+-rwxrwxrwx 1 felexa felexa 357 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-gcloud-voice-chat:
+total 0
+-rwxrwxrwx 1 felexa felexa 354 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-account-verification:
+total 0
+-rwxrwxrwx 1 felexa felexa 503 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-acs:
+total 0
+-rwxrwxrwx 1 felexa felexa 377 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-active-boosts:
+total 0
+-rwxrwxrwx 1 felexa felexa 411 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-banners:
+total 1
+-rwxrwxrwx 1 felexa felexa 515 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-career-stats:
+total 0
+-rwxrwxrwx 1 felexa felexa 487 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-catalog:
+total 0
+-rwxrwxrwx 1 felexa felexa 272 Mar 13 23:31 assets.wad
+-rwxrwxrwx 1 felexa felexa 481 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-champ-select:
+total 4
+-rwxrwxrwx 1 felexa felexa 630 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-champ-select-legacy:
+total 1
+-rwxrwxrwx 1 felexa felexa 530 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-champions:
+total 4
+-rwxrwxrwx 1 felexa felexa 604 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-chat:
+total 4
+-rwxrwxrwx 1 felexa felexa 875 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-clash:
+total 4
+-rwxrwxrwx 1 felexa felexa 1025 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-clubs:
+total 4
+-rwxrwxrwx 1 felexa felexa 601 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-clubs-public:
+total 0
+-rwxrwxrwx 1 felexa felexa 428 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-collections:
+total 4
+-rwxrwxrwx 1 felexa felexa 749 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-content-targeting:
+total 4
+-rwxrwxrwx 1 felexa felexa 738 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-cosmetics:
+total 1
+-rwxrwxrwx 1 felexa felexa 506 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-disambiguation:
+total 0
+-rwxrwxrwx 1 felexa felexa 388 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-discord-rp:
+total 0
+-rwxrwxrwx 1 felexa felexa 401 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-email-verification:
+total 0
+-rwxrwxrwx 1 felexa felexa 465 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-end-of-game:
+total 1
+-rwxrwxrwx 1 felexa felexa 538 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-esport-stream-notifications:
+total 1
+-rwxrwxrwx 1 felexa felexa 514 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-featured-modes:
+total 4
+-rwxrwxrwx 1 felexa felexa 693 Mar 19 23:54 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-game-client-chat:
+total 0
+-rwxrwxrwx 1 felexa felexa 438 Mar 13 23:31 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-game-data:
+total 1399488
+-rwxrwxrwx 1 felexa felexa 1431769731 Mar 21 12:54 default-assets.wad
+-rwxrwxrwx 1 felexa felexa       2243 Mar 13 23:36 description.json
+-rwxrwxrwx 1 felexa felexa    1296597 Mar 21 12:54 en_GB-assets.wad
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-game-queues:
+total 0
+-rwxrwxrwx 1 felexa felexa 450 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-game-settings:
+total 0
+-rwxrwxrwx 1 felexa felexa 488 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-gameflow:
+total 4
+-rwxrwxrwx 1 felexa felexa 773 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-gamhs:
+total 0
+-rwxrwxrwx 1 felexa felexa 411 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-geoinfo:
+total 0
+-rwxrwxrwx 1 felexa felexa 432 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-heartbeat:
+total 0
+-rwxrwxrwx 1 felexa felexa 349 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-highlights:
+total 0
+-rwxrwxrwx 1 felexa felexa 444 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-honor-v2:
+total 1
+-rwxrwxrwx 1 felexa felexa 579 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-inventory:
+total 4
+-rwxrwxrwx 1 felexa felexa 593 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-item-sets:
+total 1
+-rwxrwxrwx 1 felexa felexa 529 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-kickout:
+total 0
+-rwxrwxrwx 1 felexa felexa 458 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-kr-playtime-reminder:
+total 0
+-rwxrwxrwx 1 felexa felexa 420 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-kr-shutdown-law:
+total 1
+-rwxrwxrwx 1 felexa felexa 530 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-league-session:
+total 0
+-rwxrwxrwx 1 felexa felexa 409 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-leaver-buster:
+total 0
+-rwxrwxrwx 1 felexa felexa 460 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-license-agreement:
+total 376
+-rwxrwxrwx 1 felexa felexa 383609 Mar 13 23:36 assets.wad
+-rwxrwxrwx 1 felexa felexa    396 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-loadouts:
+total 4
+-rwxrwxrwx 1 felexa felexa 707 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-lobby:
+total 4
+-rwxrwxrwx 1 felexa felexa 1025 Mar 19 23:54 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-lobby-team-builder:
+total 4
+-rwxrwxrwx 1 felexa felexa 668 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-login:
+total 0
+-rwxrwxrwx 1 felexa felexa 459 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-loot:
+total 4
+-rwxrwxrwx 1 felexa felexa 644 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-loyalty:
+total 1
+-rwxrwxrwx 1 felexa felexa 525 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-maps:
+total 0
+-rwxrwxrwx 1 felexa felexa 344 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-match-history:
+total 0
+-rwxrwxrwx 1 felexa felexa 490 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-matchmaking:
+total 1
+-rwxrwxrwx 1 felexa felexa 583 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-missions:
+total 4
+-rwxrwxrwx 1 felexa felexa 911 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-mode-progression:
+total 0
+-rwxrwxrwx 1 felexa felexa 374 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-npe-rewards:
+total 1
+-rwxrwxrwx 1 felexa felexa 542 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-npe-tutorial-path:
+total 4
+-rwxrwxrwx 1 felexa felexa 803 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-patch:
+total 0
+-rwxrwxrwx 1 felexa felexa 262 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-perks:
+total 4
+-rwxrwxrwx 1 felexa felexa 782 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-personalized-offers:
+total 1
+-rwxrwxrwx 1 felexa felexa 508 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-pft:
+total 1
+-rwxrwxrwx 1 felexa felexa 527 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-platform-config:
+total 0
+-rwxrwxrwx 1 felexa felexa 372 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-player-behavior:
+total 1
+-rwxrwxrwx 1 felexa felexa 556 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-player-level-up:
+total 1
+-rwxrwxrwx 1 felexa felexa 548 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-player-messaging:
+total 0
+-rwxrwxrwx 1 felexa felexa 377 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-player-preferences:
+total 0
+-rwxrwxrwx 1 felexa felexa 414 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-pre-end-of-game:
+total 0
+-rwxrwxrwx 1 felexa felexa 333 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-premade-voice:
+total 4
+-rwxrwxrwx 1 felexa felexa 272 Mar 13 23:36 assets.wad
+-rwxrwxrwx 1 felexa felexa 858 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-purchase-widget:
+total 4
+-rwxrwxrwx 1 felexa felexa 657 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-queue-eligibility:
+total 4
+-rwxrwxrwx 1 felexa felexa 603 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-ranked:
+total 4
+-rwxrwxrwx 1 felexa felexa 784 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-recommendations:
+total 1
+-rwxrwxrwx 1 felexa felexa 579 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-regalia:
+total 4
+-rwxrwxrwx 1 felexa felexa 587 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-replays:
+total 4
+-rwxrwxrwx 1 felexa felexa 622 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-riot-messaging-service:
+total 0
+-rwxrwxrwx 1 felexa felexa 421 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-riotclient-upgrader:
+total 0
+-rwxrwxrwx 1 felexa felexa 415 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-rso-auth:
+total 0
+-rwxrwxrwx 1 felexa felexa 406 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-service-status:
+total 0
+-rwxrwxrwx 1 felexa felexa 459 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-settings:
+total 0
+-rwxrwxrwx 1 felexa felexa 502 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-shutdown:
+total 0
+-rwxrwxrwx 1 felexa felexa 400 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-simple-dialog-messages:
+total 0
+-rwxrwxrwx 1 felexa felexa 488 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-spectator:
+total 1
+-rwxrwxrwx 1 felexa felexa 529 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-statstones:
+total 4
+-rwxrwxrwx 1 felexa felexa 756 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-store:
+total 1
+-rwxrwxrwx 1 felexa felexa 530 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-suggested-players:
+total 4
+-rwxrwxrwx 1 felexa felexa 666 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-summoner:
+total 0
+-rwxrwxrwx 1 felexa felexa 495 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-tencent-antiaddiction:
+total 0
+-rwxrwxrwx 1 felexa felexa 422 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-tencent-qt:
+total 0
+-rwxrwxrwx 1 felexa felexa 340 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-trophies:
+total 1
+-rwxrwxrwx 1 felexa felexa 516 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-user-experience:
+total 0
+-rwxrwxrwx 1 felexa felexa 357 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-lol-worlds-token-card:
+total 1
+-rwxrwxrwx 1 felexa felexa 538 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-patcher:
+total 0
+-rwxrwxrwx 1 felexa felexa 343 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-payments:
+total 0
+-rwxrwxrwx 1 felexa felexa 340 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-player-notifications:
+total 0
+-rwxrwxrwx 1 felexa felexa 499 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-recofriender:
+total 1
+-rwxrwxrwx 1 felexa felexa 514 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-riot-messaging-service:
+total 0
+-rwxrwxrwx 1 felexa felexa 372 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-sanitizer:
+total 680
+-rwxrwxrwx 1 felexa felexa 694847 Mar 21 12:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    425 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-be-voice-chat:
+total 0
+-rwxrwxrwx 1 felexa felexa 338 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-app-controls:
+total 40
+-rwxrwxrwx 1 felexa felexa 35775 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   597 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-audio:
+total 36
+-rwxrwxrwx 1 felexa felexa 33380 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   358 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-common-libs:
+total 300
+-rwxrwxrwx 1 felexa felexa 305875 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    320 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-ember-libs:
+total 772
+-rwxrwxrwx 1 felexa felexa 786810 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    363 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-language-filter:
+total 164
+-rwxrwxrwx 1 felexa felexa 166810 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    373 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lcu-bootstrap-ui:
+total 668
+-rwxrwxrwx 1 felexa felexa 683622 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    477 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-account-verification:
+total 813
+-rwxrwxrwx 1 felexa felexa 829220 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    534 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-account-verification-settings:
+total 156
+-rwxrwxrwx 1 felexa felexa 153912 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    621 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-career-stats:
+total 3900
+-rwxrwxrwx 1 felexa felexa 3987060 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    2149 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-champ-select:
+total 46592
+-rwxrwxrwx 1 felexa felexa 47705097 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa     1067 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-champ-select-skip:
+total 8
+-rwxrwxrwx 1 felexa felexa 7285 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa  473 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-champion-details:
+total 15476
+-rwxrwxrwx 1 felexa felexa 15843005 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa     1567 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-champion-mastery-notifications:
+total 9500
+-rwxrwxrwx 1 felexa felexa 9727643 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa     441 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-champion-statistics:
+total 4
+-rwxrwxrwx 1 felexa felexa 1898 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa  334 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-chat-settings:
+total 25
+-rwxrwxrwx 1 felexa felexa 22085 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   525 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-clash:
+total 83468
+-rwxrwxrwx 1 felexa felexa 85466823 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa     1186 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-club-tag-components:
+total 16
+-rwxrwxrwx 1 felexa felexa 11007 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   621 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-clubs:
+total 268
+-rwxrwxrwx 1 felexa felexa 266821 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   1603 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-collections:
+total 99228
+-rwxrwxrwx 1 felexa felexa 101604591 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa      2355 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-content-targeting-settings:
+total 89
+-rwxrwxrwx 1 felexa felexa 87959 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   557 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-disambiguation:
+total 105
+-rwxrwxrwx 1 felexa felexa 103114 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    530 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-email-verification:
+total 249
+-rwxrwxrwx 1 felexa felexa 252820 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    536 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-emote-panel:
+total 1412
+-rwxrwxrwx 1 felexa felexa 1440788 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa     639 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-esports-spectate:
+total 244
+-rwxrwxrwx 1 felexa felexa 242879 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    628 Mar 13 23:36 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-eternals:
+total 12212
+-rwxrwxrwx 1 felexa felexa 12499838 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa      623 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-friend-finder:
+total 296
+-rwxrwxrwx 1 felexa felexa 297364 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    964 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-game-in-progress:
+total 80
+-rwxrwxrwx 1 felexa felexa 81907 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   486 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-game-settings:
+total 173
+-rwxrwxrwx 1 felexa felexa 173046 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    568 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-general-settings:
+total 64
+-rwxrwxrwx 1 felexa felexa 57735 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   607 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-highlights:
+total 217
+-rwxrwxrwx 1 felexa felexa 217948 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    566 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-home:
+total 8
+-rwxrwxrwx 1 felexa felexa 1162 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa  682 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-home-registry:
+total 16
+-rwxrwxrwx 1 felexa felexa 14669 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   327 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-honor:
+total 45820
+-rwxrwxrwx 1 felexa felexa 46911773 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa      694 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-hover-card:
+total 216
+-rwxrwxrwx 1 felexa felexa 216579 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   1152 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-item-sets:
+total 412
+-rwxrwxrwx 1 felexa felexa 415055 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    662 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-kickout:
+total 12
+-rwxrwxrwx 1 felexa felexa 8334 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa  440 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-l10n:
+total 424
+-rwxrwxrwx 1 felexa felexa 432992 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    371 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-league-tier-names:
+total 732
+-rwxrwxrwx 1 felexa felexa 749532 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    412 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-leagues:
+total 67132
+-rwxrwxrwx 1 felexa felexa 68735826 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa      872 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-license-agreement:
+total 17
+-rwxrwxrwx 1 felexa felexa 13365 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   557 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-license-settings:
+total 61
+-rwxrwxrwx 1 felexa felexa 59616 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   568 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-loading-screen:
+total 212
+-rwxrwxrwx 1 felexa felexa 215270 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    493 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-lock-and-load:
+total 16
+-rwxrwxrwx 1 felexa felexa 13728 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   327 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-login:
+total 684
+-rwxrwxrwx 1 felexa felexa 695781 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    724 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-loot:
+total 98640
+-rwxrwxrwx 1 felexa felexa 100999750 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa       784 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-match-history:
+total 2476
+-rwxrwxrwx 1 felexa felexa 2529966 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    1558 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-matchmaking-notifications:
+total 24
+-rwxrwxrwx 1 felexa felexa 17633 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   804 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-missions:
+total 42708
+-rwxrwxrwx 1 felexa felexa 43727488 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa     1383 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-navigation:
+total 1008
+-rwxrwxrwx 1 felexa felexa 1027095 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa     641 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-new-player-experience:
+total 9072
+-rwxrwxrwx 1 felexa felexa 9282286 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa     785 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-notification-settings:
+total 24
+-rwxrwxrwx 1 felexa felexa 17528 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   876 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-npe-first-touch:
+total 6596
+-rwxrwxrwx 1 felexa felexa 6747149 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa     780 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-npe-rewards:
+total 12456
+-rwxrwxrwx 1 felexa felexa 12749145 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa      863 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-parties:
+total 6836
+-rwxrwxrwx 1 felexa felexa 6992714 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa     979 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-paw:
+total 1780
+-rwxrwxrwx 1 felexa felexa 1815776 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa     618 Mar 19 23:54 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-perks:
+total 31253
+-rwxrwxrwx 1 felexa felexa 32000541 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa      574 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-personalized-offers:
+total 3136
+-rwxrwxrwx 1 felexa felexa 3205874 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa     654 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-pft:
+total 32
+-rwxrwxrwx 1 felexa felexa 30149 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa   437 Mar 19 23:54 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-player-messaging:
+total 472
+-rwxrwxrwx 1 felexa felexa 480958 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    449 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-player-notifications:
+total 256
+-rwxrwxrwx 1 felexa felexa 257757 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    792 Mar 19 23:54 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-postgame:
+total 4068
+-rwxrwxrwx 1 felexa felexa 4157595 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa    1015 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-premade-voice:
+total 189
+-rwxrwxrwx 1 felexa felexa 191885 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa    565 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-profiles:
+total 1644
+-rwxrwxrwx 1 felexa felexa 1676479 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa     841 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-reconnect-notification:
+total 60
+-rwxrwxrwx 1 felexa felexa 59322 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa   498 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-regalia:
+total 2432
+-rwxrwxrwx 1 felexa felexa 2485726 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa     673 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-replays:
+total 149
+-rwxrwxrwx 1 felexa felexa 148752 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa    567 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-replays-settings:
+total 33
+-rwxrwxrwx 1 felexa felexa 31096 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa   567 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-reward-notifications:
+total 225
+-rwxrwxrwx 1 felexa felexa 228128 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa    524 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-settings:
+total 109
+-rwxrwxrwx 1 felexa felexa 106687 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa    552 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-simple-dialog-messages:
+total 24
+-rwxrwxrwx 1 felexa felexa 23011 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa   489 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-skins-picker:
+total 80
+-rwxrwxrwx 1 felexa felexa 74172 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa  1301 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-social:
+total 1672
+-rwxrwxrwx 1 felexa felexa 1705369 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa    2857 Mar 19 23:55 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-social-avatar:
+total 160
+-rwxrwxrwx 1 felexa felexa 160028 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa    489 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-sound-settings:
+total 25
+-rwxrwxrwx 1 felexa felexa 24550 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa   528 Mar 13 23:37 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-splash:
+total 94789
+-rwxrwxrwx 1 felexa felexa 97062445 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa      515 Mar 13 23:38 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-startup:
+total 8
+-rwxrwxrwx 1 felexa felexa 6610 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa  369 Mar 13 23:38 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-static-assets:
+total 12752
+-rwxrwxrwx 1 felexa felexa 13054527 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa      344 Mar 13 23:38 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-store:
+total 436
+-rwxrwxrwx 1 felexa felexa 441440 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa    817 Mar 19 23:55 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-summoner-icon-picker:
+total 141
+-rwxrwxrwx 1 felexa felexa 142669 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa    564 Mar 13 23:38 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-tencent-qt:
+total 44
+-rwxrwxrwx 1 felexa felexa 40223 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa   593 Mar 13 23:38 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-tft:
+total 2016
+-rwxrwxrwx 1 felexa felexa 2058416 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa     824 Mar 19 23:55 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-typekit:
+total 780
+-rwxrwxrwx 1 felexa felexa 790807 Mar 19 23:55 default-assets.wad
+-rwxrwxrwx 1 felexa felexa    965 Mar 13 23:38 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-uikit:
+total 24913
+-rwxrwxrwx 1 felexa felexa 25509578 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa      519 Mar 13 23:38 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-user-experience-settings:
+total 48
+-rwxrwxrwx 1 felexa felexa 48283 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa   500 Mar 13 23:38 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-lol-voice-settings:
+total 49
+-rwxrwxrwx 1 felexa felexa 48620 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa   565 Mar 13 23:38 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-payments:
+total 17
+-rwxrwxrwx 1 felexa felexa 16371 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa   567 Mar 13 23:38 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-plugin-runner:
+total 52
+-rwxrwxrwx 1 felexa felexa 49482 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa   337 Mar 13 23:38 description.json
+
+./Riot Games/League of Legends/Plugins/rcp-fe-viewport:
+total 40
+-rwxrwxrwx 1 felexa felexa 40621 Mar 19 23:55 assets.wad
+-rwxrwxrwx 1 felexa felexa   318 Mar 13 23:38 description.json
+
+./Riot Games/League of Legends/locales:
+total 184
+-rwxrwxrwx 1 felexa felexa 185090 Mar 13 23:38 en-US.pak
+
+./Riot Games/Riot Client:
+total 114852
+-rwxrwxrwx 1 felexa felexa 11995296 Mar 19 23:54 Foundation.dll
+-rwxrwxrwx 1 felexa felexa  2421408 Mar 13 23:30 GCloudVoice.dll
+drwxrwxrwx 1 felexa felexa      512 Mar 13 23:30 Resources
+-rwxrwxrwx 1 felexa felexa   378368 Mar 13 23:30 RiotClientCrashHandler.exe
+-rwxrwxrwx 1 felexa felexa 67931296 Mar 19 23:54 RiotClientServices.exe
+drwxrwxrwx 1 felexa felexa      512 Mar 16 23:12 UX
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-core-console-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-datetime-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11200 Mar 13 23:31 api-ms-win-core-debug-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-errorhandling-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    14792 Mar 13 23:31 api-ms-win-core-file-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11416 Mar 13 23:31 api-ms-win-core-file-l1-2-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-file-l2-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-handle-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-core-heap-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-core-interlocked-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:31 api-ms-win-core-libraryloader-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13768 Mar 13 23:31 api-ms-win-core-localization-l1-2-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-core-memory-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11200 Mar 13 23:31 api-ms-win-core-namedpipe-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:31 api-ms-win-core-processenvironment-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13768 Mar 13 23:31 api-ms-win-core-processthreads-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-core-processthreads-l1-1-1.dll
+-rwxrwxrwx 1 felexa felexa    10696 Mar 13 23:31 api-ms-win-core-profile-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-rtlsupport-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-string-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13256 Mar 13 23:31 api-ms-win-core-synch-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11712 Mar 13 23:31 api-ms-win-core-synch-l1-2-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:31 api-ms-win-core-sysinfo-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-core-timezone-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-util-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:31 api-ms-win-crt-conio-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    15304 Mar 13 23:31 api-ms-win-crt-convert-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-crt-environment-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13248 Mar 13 23:31 api-ms-win-crt-filesystem-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:31 api-ms-win-crt-heap-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-crt-locale-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    21960 Mar 13 23:31 api-ms-win-crt-math-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    19400 Mar 13 23:31 api-ms-win-crt-multibyte-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    65992 Mar 13 23:31 api-ms-win-crt-private-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:31 api-ms-win-crt-process-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    15808 Mar 13 23:31 api-ms-win-crt-runtime-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    17352 Mar 13 23:31 api-ms-win-crt-stdio-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    17864 Mar 13 23:31 api-ms-win-crt-string-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13760 Mar 13 23:31 api-ms-win-crt-time-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-crt-utility-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa   246576 Mar 13 23:31 concrt140.dll
+-rwxrwxrwx 1 felexa felexa   992208 Mar 13 23:31 dbghelp.dll
+-rwxrwxrwx 1 felexa felexa  2551296 Mar 13 23:31 libcrypto-1_1.dll
+-rwxrwxrwx 1 felexa felexa   334336 Mar 13 23:31 libcurl.dll
+-rwxrwxrwx 1 felexa felexa   122880 Mar 13 23:31 libnghttp2.dll
+-rwxrwxrwx 1 felexa felexa   530432 Mar 13 23:31 libssl-1_1.dll
+-rwxrwxrwx 1 felexa felexa   153088 Mar 13 23:31 libuv.dll
+-rwxrwxrwx 1 felexa felexa   386560 Mar 13 23:31 libzstd.dll
+-rwxrwxrwx 1 felexa felexa   453416 Mar 13 23:31 msvcp140.dll
+-rwxrwxrwx 1 felexa felexa   194688 Mar 13 23:31 ortp.dll
+-rwxrwxrwx 1 felexa felexa    98976 Mar 19 23:54 rCrashpadApi.dll
+-rwxrwxrwx 1 felexa felexa   103584 Mar 13 23:31 rail_api_v1.dll
+-rwxrwxrwx 1 felexa felexa 14966616 Mar 13 23:31 rail_api_v2.dll
+-rwxrwxrwx 1 felexa felexa  2251424 Mar 13 23:31 rail_tcls.dll
+-rwxrwxrwx 1 felexa felexa    13258 Mar 16 23:12 system.yaml
+-rwxrwxrwx 1 felexa felexa  1168840 Mar 13 23:31 ucrtbase.dll
+-rwxrwxrwx 1 felexa felexa    82752 Mar 13 23:31 vcruntime140.dll
+-rwxrwxrwx 1 felexa felexa  3555016 Mar 13 23:31 vgrl.dll
+-rwxrwxrwx 1 felexa felexa  4329600 Mar 13 23:31 vivoxsdk.dll
+-rwxrwxrwx 1 felexa felexa  1478304 Mar 13 23:31 wegame_auth.dll
+-rwxrwxrwx 1 felexa felexa    92160 Mar 13 23:31 yaml.dll
+-rwxrwxrwx 1 felexa felexa   106496 Mar 13 23:31 zlib.dll
+
+./Riot Games/Riot Client/Resources:
+total 32
+-rwxrwxrwx 1 felexa felexa 28746 Mar 13 23:30 icon.ico
+
+./Riot Games/Riot Client/UX:
+total 90688
+drwxrwxrwx 1 felexa felexa      512 Mar 13 23:31 Plugins
+-rwxrwxrwx 1 felexa felexa  1344160 Mar 19 23:54 RiotClientUx.exe
+-rwxrwxrwx 1 felexa felexa   601760 Mar 19 23:54 RiotClientUxRender.exe
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-core-console-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-datetime-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11200 Mar 13 23:31 api-ms-win-core-debug-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-errorhandling-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    14792 Mar 13 23:31 api-ms-win-core-file-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11416 Mar 13 23:31 api-ms-win-core-file-l1-2-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-file-l2-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-handle-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-core-heap-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-core-interlocked-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:31 api-ms-win-core-libraryloader-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13768 Mar 13 23:31 api-ms-win-core-localization-l1-2-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-core-memory-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11200 Mar 13 23:31 api-ms-win-core-namedpipe-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:31 api-ms-win-core-processenvironment-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13768 Mar 13 23:31 api-ms-win-core-processthreads-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-core-processthreads-l1-1-1.dll
+-rwxrwxrwx 1 felexa felexa    10696 Mar 13 23:31 api-ms-win-core-profile-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-rtlsupport-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-string-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13256 Mar 13 23:31 api-ms-win-core-synch-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11712 Mar 13 23:31 api-ms-win-core-synch-l1-2-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:31 api-ms-win-core-sysinfo-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-core-timezone-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11208 Mar 13 23:31 api-ms-win-core-util-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:31 api-ms-win-crt-conio-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    15304 Mar 13 23:31 api-ms-win-crt-convert-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-crt-environment-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13248 Mar 13 23:31 api-ms-win-crt-filesystem-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:31 api-ms-win-crt-heap-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-crt-locale-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    21960 Mar 13 23:31 api-ms-win-crt-math-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    19400 Mar 13 23:31 api-ms-win-crt-multibyte-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    65992 Mar 13 23:31 api-ms-win-crt-private-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    12232 Mar 13 23:31 api-ms-win-crt-process-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    15808 Mar 13 23:31 api-ms-win-crt-runtime-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    17352 Mar 13 23:31 api-ms-win-crt-stdio-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    17864 Mar 13 23:31 api-ms-win-crt-string-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    13760 Mar 13 23:31 api-ms-win-crt-time-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa    11720 Mar 13 23:31 api-ms-win-crt-utility-l1-1-0.dll
+-rwxrwxrwx 1 felexa felexa  2383494 Mar 13 23:31 cef.pak
+-rwxrwxrwx 1 felexa felexa   144747 Mar 13 23:31 cef_100_percent.pak
+-rwxrwxrwx 1 felexa felexa   233072 Mar 13 23:31 cef_200_percent.pak
+-rwxrwxrwx 1 felexa felexa  4323555 Mar 13 23:31 cef_extensions.pak
+-rwxrwxrwx 1 felexa felexa    35325 Mar 13 23:31 cef_resources.pak
+-rwxrwxrwx 1 felexa felexa   246576 Mar 13 23:31 concrt140.dll
+-rwxrwxrwx 1 felexa felexa  3661112 Mar 13 23:31 d3dcompiler_47.dll
+-rwxrwxrwx 1 felexa felexa  4666180 Mar 13 23:31 devtools_resources.pak
+-rwxrwxrwx 1 felexa felexa   825344 Mar 13 23:31 ffmpeg.dll
+-rwxrwxrwx 1 felexa felexa 10207936 Mar 13 23:31 icudtl.dat
+-rwxrwxrwx 1 felexa felexa    14848 Mar 13 23:31 libEGL.dll
+-rwxrwxrwx 1 felexa felexa  1794048 Mar 13 23:31 libGLESv2.dll
+-rwxrwxrwx 1 felexa felexa 55038464 Mar 13 23:31 libcef.dll
+-rwxrwxrwx 1 felexa felexa  2551296 Mar 13 23:31 libcrypto-1_1.dll
+-rwxrwxrwx 1 felexa felexa   334336 Mar 16 23:12 libcurl.dll
+-rwxrwxrwx 1 felexa felexa   122880 Mar 16 23:12 libnghttp2.dll
+-rwxrwxrwx 1 felexa felexa   530432 Mar 13 23:31 libssl-1_1.dll
+-rwxrwxrwx 1 felexa felexa   153088 Mar 16 23:12 libuv.dll
+-rwxrwxrwx 1 felexa felexa   386560 Mar 13 23:31 libzstd.dll
+drwxrwxrwx 1 felexa felexa      512 Mar 13 23:31 locales
+-rwxrwxrwx 1 felexa felexa   453416 Mar 13 23:31 msvcp140.dll
+-rwxrwxrwx 1 felexa felexa    28472 Mar 13 23:31 msvcp140_1.dll
+-rwxrwxrwx 1 felexa felexa   154416 Mar 13 23:31 msvcp140_2.dll
+-rwxrwxrwx 1 felexa felexa   406061 Mar 13 23:31 natives_blob.bin
+-rwxrwxrwx 1 felexa felexa    98976 Mar 19 23:54 rCrashpadApi.dll
+-rwxrwxrwx 1 felexa felexa  1168840 Mar 13 23:31 ucrtbase.dll
+-rwxrwxrwx 1 felexa felexa    82752 Mar 13 23:31 vcruntime140.dll
+-rwxrwxrwx 1 felexa felexa    92160 Mar 13 23:31 yaml.dll
+-rwxrwxrwx 1 felexa felexa   106496 Mar 13 23:31 zlib.dll
+
+./Riot Games/Riot Client/UX/Plugins:
+total 0
+-rwxrwxrwx 1 felexa felexa 298 Mar 13 23:30 plugin-manifest.json
+drwxrwxrwx 1 felexa felexa 512 Mar 13 23:31 rcp-fe-keystone-react
+drwxrwxrwx 1 felexa felexa 512 Mar 13 23:31 rcp-fe-plugin-runner
+
+./Riot Games/Riot Client/UX/Plugins/rcp-fe-keystone-react:
+total 87720
+-rwxrwxrwx 1 felexa felexa 89825220 Mar 19 23:54 assets.wad
+-rwxrwxrwx 1 felexa felexa      297 Mar 13 23:31 description.json
+
+./Riot Games/Riot Client/UX/Plugins/rcp-fe-plugin-runner:
+total 92
+-rwxrwxrwx 1 felexa felexa 93140 Mar 13 23:31 assets.wad
+-rwxrwxrwx 1 felexa felexa   305 Mar 13 23:31 description.json
+
+./Riot Games/Riot Client/UX/locales:
+total 40
+-rwxrwxrwx 1 felexa felexa 40614 Mar 13 23:31 en-US.pak
+
+./Warcraft III:
+total 2340
+-rwxrwxrwx 1 felexa felexa    5419 May 29  2019 CustomKeyInfo.txt
+-rwxrwxrwx 1 felexa felexa   57676 May 29  2019 CustomKeysSample.txt
+drwxrwxrwx 1 felexa felexa     512 Mar 22 14:22 Data
+drwxrwxrwx 1 felexa felexa     512 Mar 22 14:22 Movies
+-rwxrwxrwx 1 felexa felexa  355574 Aug 27  2013 RoC.ico
+-rwxrwxrwx 1 felexa felexa  355574 Aug 27  2013 TFT.ico
+-rwxrwxrwx 1 felexa felexa   21630 Feb  7  2019 replays.ico
+-rwxrwxrwx 1 felexa felexa   32915 Mar 22 14:23 unins000.dat
+-rwxrwxrwx 1 felexa felexa 1548611 Mar 22 14:21 unins000.exe
+drwxrwxrwx 1 felexa felexa     512 Mar 22 14:22 x86
+drwxrwxrwx 1 felexa felexa     512 Mar 22 14:22 x86_64
+
+./Warcraft III/Data:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 config
+drwxrwxrwx 1 felexa felexa 512 Mar 31 01:35 data
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 indices
+
+./Warcraft III/Data/config:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 73
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 7c
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 8e
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 98
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 9d
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 cc
+
+./Warcraft III/Data/config/73:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 06
+
+./Warcraft III/Data/config/73/06:
+total 4
+-rwxrwxrwx 1 felexa felexa 3302 May 29  2019 730612f1036bb32da8701a699de43c8c
+
+./Warcraft III/Data/config/7c:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 45
+
+./Warcraft III/Data/config/7c/45:
+total 100
+-rwxrwxrwx 1 felexa felexa 100020 Feb  7  2019 7c45731c22f6bf4ff30035ab9d905745
+
+./Warcraft III/Data/config/8e:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 23
+
+./Warcraft III/Data/config/8e/23:
+total 4
+-rwxrwxrwx 1 felexa felexa 3378 Jun 21  2019 8e2359951ea46853eba530b1f067c801
+
+./Warcraft III/Data/config/98:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 e2
+
+./Warcraft III/Data/config/98/e2:
+total 4
+-rwxrwxrwx 1 felexa felexa 3147 Feb  7  2019 98e20152b92e86ce26dc2dd765408ec9
+
+./Warcraft III/Data/config/9d:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 23
+
+./Warcraft III/Data/config/9d/23:
+total 8
+-rwxrwxrwx 1 felexa felexa 7435 Jun 21  2019 9d237ac1c45b0d44bd40e8b09781235d
+
+./Warcraft III/Data/config/cc:
+total 0
+drwxrwxrwx 1 felexa felexa 512 Mar 22 14:22 2d
+
+./Warcraft III/Data/config/cc/2d:
+total 8
+-rwxrwxrwx 1 felexa felexa 7440 May 29  2019 cc2dbb838eb5156585bc71cf9951ee65
+
+./Warcraft III/Data/data:
+total 1899544
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 000000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 000000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 000000000e.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 010000000b.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 010000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 010000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 020000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 020000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 020000000e.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 030000000b.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 030000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 030000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 040000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 040000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 040000000e.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 050000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 050000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 050000000e.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 060000000b.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 060000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 060000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 070000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 070000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 070000000e.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 080000000b.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 080000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 080000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 090000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 090000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 090000000e.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 0a0000000b.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 0a0000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 0a0000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 0b0000000b.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 0b0000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 0b0000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 0c0000000b.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 0c0000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 0c0000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 0d0000000b.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 0d0000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 0d0000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 0e0000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 0e0000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 0e0000000e.idx
+-rwxrwxrwx 1 felexa felexa      65536 Jun 21  2019 0f0000000c.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 22 14:46 0f0000000d.idx
+-rwxrwxrwx 1 felexa felexa      65536 Mar 31 01:35 0f0000000e.idx
+-rwxrwxrwx 1 felexa felexa 1073740509 Mar 31 00:24 data.000
+-rwxrwxrwx 1 felexa felexa  868230752 Mar 31 01:34 data.001
+-rwxrwxrwx 1 felexa felexa      11280 Mar 31 00:22 shmem
+
+./Warcraft III/Data/indices:
+total 10616
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 0098c87b94b3dee1aa1e4e4f8e3406d0.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 010766f3e0301b8b6530016cb88cd1dc.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 04c62084aeadd35bf1ba8f64f8ad5c81.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 058063cb7a62829ecec47942757fa7d6.index
+-rwxrwxrwx 1 felexa felexa   90668 Feb  7  2019 05ba6cfe2e03bece9dc3c805ee6d7938.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 09285e6a08ecf73532ceddd1387048ce.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 09e64b3a09a6f73aceb2dc60b6d29bb5.index
+-rwxrwxrwx 1 felexa felexa  243108 Feb  7  2019 0eae8e37164dbf2c22599c0d9e7162fb.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 0f375e5d0ce11552f03bcbf545dab505.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 0f4e02ecf40b40ac1799e927a73268d0.index
+-rwxrwxrwx 1 felexa felexa    4148 Jun 21  2019 11cfd067589d18aa734d10bb5cd16284.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 1793bd5e5eadcc2dcfb3e987be722a90.index
+-rwxrwxrwx 1 felexa felexa   94788 Feb  7  2019 1ed6e6f0226562399dcc577686bd23be.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 2725fadd485f8dfc3b8142bc69e0b73c.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 28758e9a84ace79dba80c806affd5ece.index
+-rwxrwxrwx 1 felexa felexa    4148 Jun 21  2019 2b245b0af2f851eb286d1988566fdf5a.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 2b7dd853f45f5faa762ec235d485a25d.index
+-rwxrwxrwx 1 felexa felexa  119508 Feb  7  2019 2bd79832bfe41241532edfe3e8244aa5.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 2cf4fbabef69ab20b96dad92b22828d4.index
+-rwxrwxrwx 1 felexa felexa   78308 Feb  7  2019 2e125de4b1c4c937eedf1896961fbe70.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 30db8b33afee4ff185822bce0f1b6e0f.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 3176b7529cc35162b273fa4b93a86fc7.index
+-rwxrwxrwx 1 felexa felexa   49468 Feb  7  2019 31e8c1d24b694aa0599b78951610cebf.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 374d4e3d79f5bd2b71f2ebf3f1b84a39.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 3cec0aa1bf345f7d1ba2df17221a7d12.index
+-rwxrwxrwx 1 felexa felexa   74188 Feb  7  2019 3e06931a4295ba64e6e49e21263f077b.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 3ed2c2beb56538c3cfd9e10c436cff93.index
+-rwxrwxrwx 1 felexa felexa   94788 Feb  7  2019 3fec575d1b162544e372d351a43d9639.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 46136b37bf06fa0c905d7093543265d4.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 4899244c3c714640abf45ffe63a4e4a2.index
+-rwxrwxrwx 1 felexa felexa 2607988 Jun 21  2019 48aa439a76fe6084c0b5694151115e24.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 4e2a9371c675c7199dafb487935343b9.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 53ea00acdf59c245a25720a3b4b2d86e.index
+-rwxrwxrwx 1 felexa felexa    8268 May 29  2019 5592429710a4ff5578d0d89f00f326b1.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 566a75093eba729e1159305ff8798424.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 567b1699e11f735b9f6dfc239bbf9258.index
+-rwxrwxrwx 1 felexa felexa   28868 Feb  7  2019 5887d31a3682770df032f1d110ebe28b.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 5ff65496563f8a0f23ce6a88a3d49f29.index
+-rwxrwxrwx 1 felexa felexa   24748 Feb  7  2019 6053292af6f848d1894c7d6bb40d3dec.index
+-rwxrwxrwx 1 felexa felexa    4148 May 29  2019 6163a4b7ccc2072e23cb1c915b147174.index
+-rwxrwxrwx 1 felexa felexa   49468 May 29  2019 67b99d4e1f5a78ce55cdd7064548a735.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 6de4625b1e5d51a38a19d67f054f8c8f.index
+-rwxrwxrwx 1 felexa felexa   28868 Feb  7  2019 716e7a5797b964279e702aae71587a16.index
+-rwxrwxrwx 1 felexa felexa   12388 Feb  7  2019 73cc31971bf07709333a201584477d6e.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 74a1134f804ec0520db0620151bb632e.index
+-rwxrwxrwx 1 felexa felexa   45348 Feb  7  2019 77406669c1e4ddd7e426e6d9117f442f.index
+-rwxrwxrwx 1 felexa felexa   49468 Jun 21  2019 7cf3e79a74b215af385f2fce7989be26.index
+-rwxrwxrwx 1 felexa felexa   32988 Feb  7  2019 7d5f581c64c123fe8db4b1e5ad839554.index
+-rwxrwxrwx 1 felexa felexa   28868 Feb  7  2019 88961a2895c76b8a0f9498830648535d.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 8d695aaaa8922c7b780c79ceafa5aebc.index
+-rwxrwxrwx 1 felexa felexa   65948 Feb  7  2019 91232966e1aca8083227a77bf7277c44.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 91ad6f9cc3350c391a041c487186f885.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 92b07127a4faaa377e117934584e275a.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 9306511ea58a3fb853495465b18ddcc8.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 943e245a41329d3f05ee80ab5af8116b.index
+-rwxrwxrwx 1 felexa felexa   32988 Feb  7  2019 96bef7c69455fd83230566f2bdc52441.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 974e76389cb092b23b1576938134868c.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 97f64d3736861542f51e19f77cbc3be8.index
+-rwxrwxrwx 1 felexa felexa   41228 Feb  7  2019 9b6993a9af1c1f0765ebcc2e9f1e045f.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 a1affd091071c8b6e16acdeaff0cd835.index
+-rwxrwxrwx 1 felexa felexa   32988 Feb  7  2019 a920a49a146beaf2c7d52de7adf5882f.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 b640d52179dcdd014d0aa820f1f46c54.index
+-rwxrwxrwx 1 felexa felexa   94788 Feb  7  2019 b7011577aa96aa417b7fc270f10c04fc.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 b94a4666118e96090bf158d2d249caee.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 bc096c28858a18c07ab5737e3847dfc5.index
+-rwxrwxrwx 1 felexa felexa   28868 Feb  7  2019 c06f2e58cd87e9615d3d81f69c7a808b.index
+-rwxrwxrwx 1 felexa felexa   16508 May 29  2019 c1d8f8a54969e227ce2ee1d40fc855b0.index
+-rwxrwxrwx 1 felexa felexa   82428 Feb  7  2019 cbbe1801544184c4f26dbc8563f4dba9.index
+-rwxrwxrwx 1 felexa felexa 2439068 Feb  7  2019 d015d7e934b6d2d0bba84316b21f10fa.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 d05dfce18c2ed1e245dc5823abbf90fa.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 d3c8f6309634437f8c9ec3fa0a4a8c30.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 d64987bd058eb40629c7a68186eb11cd.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 d8bb1a4746afd5a286d5b0bf412306bf.index
+-rwxrwxrwx 1 felexa felexa 2607988 May 29  2019 d95cfcaa9ca49c1b41856a65deba4b90.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 da5ea7a8374089653ffe5ecce6f97de7.index
+-rwxrwxrwx 1 felexa felexa   32988 Feb  7  2019 e2c24f4700d69763d7f1ec01794d9dbf.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 e3af250ebb24a1bb07b52e4e064fc018.index
+-rwxrwxrwx 1 felexa felexa   32988 Feb  7  2019 e3be5934734688604f74d7f260db4a26.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 e3fe47185c69fbab16788f972a897398.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 e53a931f6ef41cdf8e9c72cc2b9f6405.index
+-rwxrwxrwx 1 felexa felexa  140108 May 29  2019 e8ab84a60fb2f003fd3bf042dccbe98a.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 eb840e447f7b0e66459d128239d10c4c.index
+-rwxrwxrwx 1 felexa felexa   32988 Feb  7  2019 ef7f21a71d5d636cb7f5c79f420e7277.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 efa1e3b94261f9f9f69b5f1ade6d0837.index
+-rwxrwxrwx 1 felexa felexa   86548 Feb  7  2019 f2b30cd60154c09248843529d90253dd.index
+-rwxrwxrwx 1 felexa felexa    4148 Feb  7  2019 f5a4bd565a297bf7a826ed997649577a.index
+-rwxrwxrwx 1 felexa felexa   90668 Feb  7  2019 f62bc8fc4a59896dd104e6435b5b2ac3.index
+-rwxrwxrwx 1 felexa felexa    8268 Feb  7  2019 f970f9cd7a4f5de4af971cac434ca267.index
+-rwxrwxrwx 1 felexa felexa   37108 Feb  7  2019 fa964ac6e755018c837aeb4780ea2196.index
+
+./Warcraft III/Movies:
+total 345324
+drwxrwxrwx 1 felexa felexa      512 Mar 22 14:23 audio
+-rwxrwxrwx 1 felexa felexa 35635934 Feb  1 14:37 humaned.avi
+-rwxrwxrwx 1 felexa felexa 51802854 Feb  1 14:58 humanop.avi
+-rwxrwxrwx 1 felexa felexa 40670302 Feb  1 15:15 introx.avi
+-rwxrwxrwx 1 felexa felexa 35842998 Feb  1 15:31 nightelfed.avi
+-rwxrwxrwx 1 felexa felexa 55008088 Feb  1 15:55 orced.avi
+-rwxrwxrwx 1 felexa felexa 42430512 Feb  1 16:13 outrox.avi
+-rwxrwxrwx 1 felexa felexa 27692462 Mar 13  2019 tutorialin.avi
+-rwxrwxrwx 1 felexa felexa 35181274 Feb  1 14:10 tutorialop.avi
+-rwxrwxrwx 1 felexa felexa 29325134 Feb  1 16:25 undeaded.avi
+
+./Warcraft III/Movies/audio:
+total 59836
+-rwxrwxrwx 1 felexa felexa 6139054 Feb 26 13:26 humaned.mp3
+-rwxrwxrwx 1 felexa felexa 8585753 Feb 26 13:26 humanop.mp3
+-rwxrwxrwx 1 felexa felexa 7319408 Feb 26 13:26 introx.mp3
+-rwxrwxrwx 1 felexa felexa 6020406 Feb 26 13:26 nightelfed.mp3
+-rwxrwxrwx 1 felexa felexa 9260734 Feb 26 13:26 orced.mp3
+-rwxrwxrwx 1 felexa felexa 7131773 Feb 26 13:26 outrox.mp3
+-rwxrwxrwx 1 felexa felexa 5191399 Feb 26 13:09 tutorialin.mp3
+-rwxrwxrwx 1 felexa felexa 6911989 Feb 26 13:26 tutorialop.mp3
+-rwxrwxrwx 1 felexa felexa 4697179 Feb 26 13:26 undeaded.mp3
+
+./Warcraft III/x86:
+total 58864
+-rwxrwxrwx 1 felexa felexa 12846568 May 29  2019 ClientSdk.dll
+-rwxrwxrwx 1 felexa felexa 31731176 Jun 21  2019 Warcraft III.exe
+-rwxrwxrwx 1 felexa felexa 15693800 Jun 21  2019 World Editor.exe
+
+./Warcraft III/x86_64:
+total 71440
+-rwxrwxrwx 1 felexa felexa 15487976 May 29  2019 ClientSdk.dll
+-rwxrwxrwx 1 felexa felexa 38542824 Jun 21  2019 Warcraft III.exe
+-rwxrwxrwx 1 felexa felexa 19118056 Jun 21  2019 World Editor.exe

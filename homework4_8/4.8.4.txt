@@ -1,0 +1,2304 @@
+   
+   
+Mar 13 23:31 Riot
+Mar 22 14:22 Warcraft
+   
+   
+   
+Mar 22 14:05 League
+Mar 19 23:56 Riot
+   
+   
+   
+Mar 13 23:31 BsSndRpt.exe
+Mar 13 23:31 BugSplat.dll
+Mar 21 12:54 BugSplatRc.dll
+Mar 22 14:05 Config
+Mar 14 00:27 Cookies
+Mar 14 00:27 DATA
+Mar 13 23:31 GCloudVoice.dll
+Mar 16 00:19 GPUCache
+Mar 14 23:45 Game
+Mar 22 13:36 Game.db
+Mar 19 23:56 Game.manifest
+Mar 14 00:35 LeagueClient.db
+Mar 21 12:54 LeagueClient.exe
+Mar 14 00:34 LeagueClient.manifest
+Mar 21 12:54 LeagueClientUx.exe
+Mar 21 12:54 LeagueClientUxRender.exe
+Mar 21 12:54 LeagueCrashHandler.exe
+Mar 14 00:27 Logs
+Mar 19 23:54 Plugins
+Mar 13 23:38 api-ms-win-core-console-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-datetime-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-debug-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-errorhandling-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-file-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-file-l1-2-0.dll
+Mar 13 23:38 api-ms-win-core-file-l2-1-0.dll
+Mar 13 23:38 api-ms-win-core-handle-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-heap-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-interlocked-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-libraryloader-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-localization-l1-2-0.dll
+Mar 13 23:38 api-ms-win-core-memory-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-namedpipe-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-processenvironment-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-processthreads-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-processthreads-l1-1-1.dll
+Mar 13 23:38 api-ms-win-core-profile-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-rtlsupport-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-string-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-synch-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-synch-l1-2-0.dll
+Mar 13 23:38 api-ms-win-core-sysinfo-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-timezone-l1-1-0.dll
+Mar 13 23:38 api-ms-win-core-util-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-conio-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-convert-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-environment-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-filesystem-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-heap-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-locale-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-math-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-multibyte-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-private-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-process-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-runtime-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-stdio-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-string-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-time-l1-1-0.dll
+Mar 13 23:38 api-ms-win-crt-utility-l1-1-0.dll
+Mar 13 23:38 cef.pak
+Mar 13 23:38 cef_100_percent.pak
+Mar 13 23:38 cef_200_percent.pak
+Mar 13 23:38 cef_extensions.pak
+Mar 21 12:54 chrome_elf.dll
+Mar 13 23:38 concrt140.dll
+Mar 13 23:38 d3dcompiler_47.dll
+Mar 22 14:05 debug.log
+Mar 13 23:38 devtools_resources.pak
+Mar 13 23:38 ffmpeg.dll
+Mar 13 23:38 icudtl.dat
+Mar 21 12:54 libEGL.dll
+Mar 21 12:54 libGLESv2.dll
+Mar 21 12:54 libcef.dll
+Mar 13 23:38 locales
+Mar 13 23:38 msvcp140.dll
+Mar 13 23:38 msvcp140_1.dll
+Mar 13 23:38 msvcp140_2.dll
+Mar 13 23:38 msvcp140_codecvt_ids.dll
+Mar 13 23:38 natives_blob.bin
+Mar 13 23:38 ortp.dll
+Mar 22 13:36 patchline.json
+Mar 13 23:38 rc-win.enc
+Mar 19 23:55 rc-win.uni
+Mar 13 23:38 snapshot_blob.bin
+Mar 19 23:55 system.yaml
+Mar 13 23:38 ucrtbase.dll
+Mar 13 23:38 v8_context_snapshot.bin
+Mar 13 23:38 vcruntime140.dll
+Mar 13 23:38 views_mus_resources.pak
+Mar 13 23:38 vivoxsdk.dll
+   
+   
+   
+Mar 14 23:39 Champions
+Mar 14 00:27 Global
+Mar 14 23:39 ItemSets.json
+Mar 22 13:36 LCUAccountPreferences.yaml
+Mar 22 13:36 LCULocalPreferences.yaml
+Mar 22 14:05 LeagueClientSettings.yaml
+Mar 22 13:39 PerksPreferences.yaml
+Mar 22 14:05 PersistedSettings.json
+Mar 22 14:02 game.cfg
+Mar 15 22:52 input.ini
+   
+   
+   
+Mar 14 23:39 Evelynn
+Mar 14 23:39 Karthus
+Mar 14 23:39 Lissandra
+Mar 14 23:39 Morgana
+Mar 14 23:39 Zyra
+   
+   
+   
+Mar 14 23:39 Recommended
+   
+   
+   
+Mar 14 23:39 RIOT_ItemSet_1.json
+   
+   
+   
+Mar 14 23:39 Recommended
+   
+   
+   
+Mar 14 23:39 RIOT_ItemSet_2.json
+   
+   
+   
+Mar 14 23:39 Recommended
+   
+   
+   
+Mar 14 23:39 RIOT_ItemSet_3.json
+   
+   
+   
+Mar 14 23:39 Recommended
+   
+   
+   
+Mar 14 23:39 RIOT_ItemSet_4.json
+   
+   
+   
+Mar 14 23:39 Recommended
+   
+   
+   
+Mar 14 23:39 RIOT_ItemSet_5.json
+   
+   
+   
+Mar 14 00:27 Recommended
+   
+   
+   
+   
+   
+   
+Mar 14 00:50 Cookies
+Mar 14 00:50 Cookies-journal
+   
+   
+   
+Mar 14 00:27 CFG
+   
+   
+   
+Mar 14 00:27 defaults
+   
+   
+   
+Mar 22 13:36 SettingsToPersist.json
+   
+   
+   
+Mar 22 14:05 data_0
+Mar 22 14:05 data_1
+Mar 14 00:27 data_2
+Mar 15 13:02 data_3
+Mar 14 00:27 f_000001
+Mar 14 00:27 f_000002
+Mar 14 00:27 f_000003
+Mar 14 00:28 f_000004
+Mar 14 00:28 f_000005
+Mar 14 00:28 f_000006
+Mar 14 00:28 f_000007
+Mar 14 00:28 f_000008
+Mar 14 00:28 f_000009
+Mar 14 00:28 f_00000a
+Mar 14 00:29 f_00000b
+Mar 14 00:29 f_00000c
+Mar 14 00:30 f_00000d
+Mar 14 00:33 f_00000e
+Mar 14 00:34 f_00000f
+Mar 14 00:34 f_000010
+Mar 14 00:36 f_000011
+Mar 14 23:41 f_000012
+Mar 14 23:52 f_000013
+Mar 14 23:52 f_000014
+Mar 15 12:44 f_000015
+Mar 16 00:19 f_000016
+Mar 14 00:27 index
+   
+   
+   
+Mar 14 00:27 BsSndRpt.exe
+Mar 14 00:27 BugSplat.dll
+Mar 14 00:27 BugSplatRc.dll
+Mar 14 00:27 D3DCompiler_43.dll
+Mar 14 00:27 DATA
+Mar 20 00:00 League
+Mar 20 00:00 LeagueCrashHandler.exe
+Mar 14 23:45 LogitechGkey.dll
+Mar 14 23:45 LogitechLed.dll
+Mar 14 23:45 cg.dll
+Mar 20 00:00 code-metadata.json
+Mar 20 00:00 content-metadata.json
+Mar 20 00:00 stub.dll
+   
+   
+   
+Mar 14 23:45 FINAL
+   
+   
+   
+Mar 19 23:56 Bootstrap.wad.client
+Mar 14 23:36 Champions
+Mar 19 23:58 DATA.wad.client
+Mar 19 23:58 DATA2.wad.client
+Mar 19 23:58 Global.wad.client
+Mar 14 23:41 Localized
+Mar 14 23:41 Maps
+Mar 19 23:59 Scripts.wad.client
+Mar 19 23:59 ShaderCache.dx9.wad.client
+Mar 19 23:59 ShaderCache.glsl.wad.client
+Mar 14 23:45 Shaders
+Mar 14 23:45 UI.en_GB.wad.client
+Mar 14 23:45 UI.en_US.wad.client
+Mar 19 23:59 UI.wad.client
+   
+   
+   
+Mar 14 00:28 Aatrox.en_US.wad.client
+Mar 14 00:47 Aatrox.ru_RU.wad.client
+Mar 19 23:56 Aatrox.wad.client
+Mar 14 00:28 Ahri.en_US.wad.client
+Mar 14 00:47 Ahri.ru_RU.wad.client
+Mar 19 23:56 Ahri.wad.client
+Mar 14 00:28 Akali.en_US.wad.client
+Mar 14 00:47 Akali.ru_RU.wad.client
+Mar 19 23:56 Akali.wad.client
+Mar 14 00:28 Alistar.en_US.wad.client
+Mar 14 00:47 Alistar.ru_RU.wad.client
+Mar 19 23:56 Alistar.wad.client
+Mar 14 00:28 Amumu.en_US.wad.client
+Mar 14 00:47 Amumu.ru_RU.wad.client
+Mar 19 23:56 Amumu.wad.client
+Mar 14 00:28 Anivia.en_US.wad.client
+Mar 14 00:47 Anivia.ru_RU.wad.client
+Mar 19 23:56 Anivia.wad.client
+Mar 14 00:29 Annie.en_US.wad.client
+Mar 14 00:47 Annie.ru_RU.wad.client
+Mar 19 23:56 Annie.wad.client
+Mar 14 00:29 Aphelios.en_US.wad.client
+Mar 14 00:47 Aphelios.ru_RU.wad.client
+Mar 19 23:56 Aphelios.wad.client
+Mar 14 00:29 Ashe.en_US.wad.client
+Mar 14 00:47 Ashe.ru_RU.wad.client
+Mar 19 23:56 Ashe.wad.client
+Mar 14 00:29 AurelionSol.en_US.wad.client
+Mar 14 00:47 AurelionSol.ru_RU.wad.client
+Mar 19 23:56 AurelionSol.wad.client
+Mar 14 00:29 Azir.en_US.wad.client
+Mar 14 00:47 Azir.ru_RU.wad.client
+Mar 19 23:56 Azir.wad.client
+Mar 14 00:29 Bard.en_US.wad.client
+Mar 14 00:47 Bard.ru_RU.wad.client
+Mar 19 23:56 Bard.wad.client
+Mar 14 00:30 Blitzcrank.en_US.wad.client
+Mar 14 00:47 Blitzcrank.ru_RU.wad.client
+Mar 19 23:56 Blitzcrank.wad.client
+Mar 14 00:30 Brand.en_US.wad.client
+Mar 14 00:47 Brand.ru_RU.wad.client
+Mar 19 23:56 Brand.wad.client
+Mar 14 00:30 Braum.en_US.wad.client
+Mar 14 00:47 Braum.ru_RU.wad.client
+Mar 19 23:56 Braum.wad.client
+Mar 14 00:30 Caitlyn.en_US.wad.client
+Mar 14 00:47 Caitlyn.ru_RU.wad.client
+Mar 19 23:56 Caitlyn.wad.client
+Mar 14 00:30 Camille.en_US.wad.client
+Mar 14 00:47 Camille.ru_RU.wad.client
+Mar 19 23:56 Camille.wad.client
+Mar 14 00:30 Cassiopeia.en_US.wad.client
+Mar 14 00:47 Cassiopeia.ru_RU.wad.client
+Mar 14 00:30 Cassiopeia.wad.client
+Mar 19 23:56 Chogath.en_US.wad.client
+Mar 14 00:47 Chogath.ru_RU.wad.client
+Mar 19 23:56 Chogath.wad.client
+Mar 14 00:30 Corki.en_US.wad.client
+Mar 14 00:47 Corki.ru_RU.wad.client
+Mar 19 23:56 Corki.wad.client
+Mar 14 00:30 Darius.en_US.wad.client
+Mar 14 00:47 Darius.ru_RU.wad.client
+Mar 19 23:56 Darius.wad.client
+Mar 19 23:56 Diana.en_US.wad.client
+Mar 14 00:47 Diana.ru_RU.wad.client
+Mar 19 23:56 Diana.wad.client
+Mar 14 00:31 DrMundo.en_US.wad.client
+Mar 14 00:47 DrMundo.ru_RU.wad.client
+Mar 19 23:56 DrMundo.wad.client
+Mar 14 00:31 Draven.en_US.wad.client
+Mar 14 00:47 Draven.ru_RU.wad.client
+Mar 19 23:56 Draven.wad.client
+Mar 14 00:31 Ekko.en_US.wad.client
+Mar 14 00:47 Ekko.ru_RU.wad.client
+Mar 19 23:56 Ekko.wad.client
+Mar 14 00:31 Elise.en_US.wad.client
+Mar 14 00:47 Elise.ru_RU.wad.client
+Mar 19 23:56 Elise.wad.client
+Mar 14 00:31 Evelynn.en_US.wad.client
+Mar 14 00:48 Evelynn.ru_RU.wad.client
+Mar 19 23:56 Evelynn.wad.client
+Mar 14 00:32 Ezreal.en_US.wad.client
+Mar 14 00:48 Ezreal.ru_RU.wad.client
+Mar 19 23:56 Ezreal.wad.client
+Mar 14 00:32 FiddleSticks.en_US.wad.client
+Mar 14 00:48 FiddleSticks.ru_RU.wad.client
+Mar 19 23:56 FiddleSticks.wad.client
+Mar 14 00:32 Fiora.en_US.wad.client
+Mar 14 00:48 Fiora.ru_RU.wad.client
+Mar 19 23:56 Fiora.wad.client
+Mar 14 00:32 Fizz.en_US.wad.client
+Mar 14 00:48 Fizz.ru_RU.wad.client
+Mar 19 23:56 Fizz.wad.client
+Mar 14 00:32 Galio.en_US.wad.client
+Mar 14 00:48 Galio.ru_RU.wad.client
+Mar 19 23:56 Galio.wad.client
+Mar 14 00:32 Gangplank.en_US.wad.client
+Mar 14 00:48 Gangplank.ru_RU.wad.client
+Mar 19 23:56 Gangplank.wad.client
+Mar 14 00:32 Garen.en_US.wad.client
+Mar 14 00:48 Garen.ru_RU.wad.client
+Mar 19 23:56 Garen.wad.client
+Mar 14 00:33 Gnar.en_US.wad.client
+Mar 14 00:48 Gnar.ru_RU.wad.client
+Mar 19 23:56 Gnar.wad.client
+Mar 14 00:33 Gragas.en_US.wad.client
+Mar 14 00:48 Gragas.ru_RU.wad.client
+Mar 19 23:56 Gragas.wad.client
+Mar 14 00:33 Graves.en_US.wad.client
+Mar 14 00:48 Graves.ru_RU.wad.client
+Mar 19 23:56 Graves.wad.client
+Mar 14 00:33 Hecarim.en_US.wad.client
+Mar 14 00:48 Hecarim.ru_RU.wad.client
+Mar 19 23:56 Hecarim.wad.client
+Mar 14 00:33 Heimerdinger.en_US.wad.client
+Mar 14 00:48 Heimerdinger.ru_RU.wad.client
+Mar 19 23:56 Heimerdinger.wad.client
+Mar 14 00:34 Illaoi.en_US.wad.client
+Mar 14 00:48 Illaoi.ru_RU.wad.client
+Mar 19 23:56 Illaoi.wad.client
+Mar 14 00:34 Irelia.en_US.wad.client
+Mar 14 00:48 Irelia.ru_RU.wad.client
+Mar 19 23:56 Irelia.wad.client
+Mar 14 00:34 Ivern.en_US.wad.client
+Mar 14 00:48 Ivern.ru_RU.wad.client
+Mar 19 23:56 Ivern.wad.client
+Mar 14 00:36 Janna.en_US.wad.client
+Mar 14 00:48 Janna.ru_RU.wad.client
+Mar 19 23:56 Janna.wad.client
+Mar 14 00:36 JarvanIV.en_US.wad.client
+Mar 14 00:48 JarvanIV.ru_RU.wad.client
+Mar 19 23:56 JarvanIV.wad.client
+Mar 14 00:36 Jax.en_US.wad.client
+Mar 14 00:48 Jax.ru_RU.wad.client
+Mar 19 23:56 Jax.wad.client
+Mar 14 00:36 Jayce.en_US.wad.client
+Mar 14 00:48 Jayce.ru_RU.wad.client
+Mar 19 23:56 Jayce.wad.client
+Mar 14 00:44 Jhin.en_US.wad.client
+Mar 14 00:48 Jhin.ru_RU.wad.client
+Mar 19 23:56 Jhin.wad.client
+Mar 14 00:44 Jinx.en_US.wad.client
+Mar 14 00:48 Jinx.ru_RU.wad.client
+Mar 19 23:56 Jinx.wad.client
+Mar 14 00:44 Kaisa.en_US.wad.client
+Mar 14 00:49 Kaisa.ru_RU.wad.client
+Mar 19 23:56 Kaisa.wad.client
+Mar 14 00:44 Kalista.en_US.wad.client
+Mar 14 00:49 Kalista.ru_RU.wad.client
+Mar 19 23:56 Kalista.wad.client
+Mar 14 00:44 Karma.en_US.wad.client
+Mar 14 00:49 Karma.ru_RU.wad.client
+Mar 19 23:56 Karma.wad.client
+Mar 14 00:44 Karthus.en_US.wad.client
+Mar 14 00:49 Karthus.ru_RU.wad.client
+Mar 19 23:56 Karthus.wad.client
+Mar 14 00:44 Kassadin.en_US.wad.client
+Mar 14 00:49 Kassadin.ru_RU.wad.client
+Mar 14 00:44 Kassadin.wad.client
+Mar 14 00:44 Katarina.en_US.wad.client
+Mar 14 00:49 Katarina.ru_RU.wad.client
+Mar 19 23:56 Katarina.wad.client
+Mar 14 00:45 Kayle.en_US.wad.client
+Mar 14 00:49 Kayle.ru_RU.wad.client
+Mar 19 23:56 Kayle.wad.client
+Mar 14 00:45 Kayn.en_US.wad.client
+Mar 14 00:49 Kayn.ru_RU.wad.client
+Mar 19 23:56 Kayn.wad.client
+Mar 14 00:45 Kennen.en_US.wad.client
+Mar 14 00:49 Kennen.ru_RU.wad.client
+Mar 14 00:45 Kennen.wad.client
+Mar 14 00:45 Khazix.en_US.wad.client
+Mar 14 00:49 Khazix.ru_RU.wad.client
+Mar 19 23:56 Khazix.wad.client
+Mar 14 00:45 Kindred.en_US.wad.client
+Mar 14 00:49 Kindred.ru_RU.wad.client
+Mar 19 23:56 Kindred.wad.client
+Mar 14 00:45 Kled.en_US.wad.client
+Mar 14 00:49 Kled.ru_RU.wad.client
+Mar 19 23:56 Kled.wad.client
+Mar 14 00:45 KogMaw.en_US.wad.client
+Mar 14 00:49 KogMaw.ru_RU.wad.client
+Mar 19 23:56 KogMaw.wad.client
+Mar 14 00:46 Leblanc.en_US.wad.client
+Mar 14 00:49 Leblanc.ru_RU.wad.client
+Mar 19 23:56 Leblanc.wad.client
+Mar 14 00:50 LeeSin.en_US.wad.client
+Mar 14 00:49 LeeSin.ru_RU.wad.client
+Mar 19 23:56 LeeSin.wad.client
+Mar 14 00:50 Leona.en_US.wad.client
+Mar 19 23:56 Leona.wad.client
+Mar 14 00:50 Lissandra.en_US.wad.client
+Mar 19 23:56 Lissandra.wad.client
+Mar 14 00:50 Lucian.en_US.wad.client
+Mar 19 23:56 Lucian.wad.client
+Mar 14 00:50 Lulu.en_US.wad.client
+Mar 19 23:56 Lulu.wad.client
+Mar 19 23:56 Lux.en_US.wad.client
+Mar 19 23:57 Lux.wad.client
+Mar 19 23:57 Malphite.en_US.wad.client
+Mar 19 23:57 Malphite.wad.client
+Mar 14 00:54 Malzahar.en_US.wad.client
+Mar 19 23:57 Malzahar.wad.client
+Mar 14 00:54 Maokai.en_US.wad.client
+Mar 19 23:57 Maokai.wad.client
+Mar 14 00:54 MasterYi.en_US.wad.client
+Mar 19 23:57 MasterYi.wad.client
+Mar 14 00:54 MissFortune.en_US.wad.client
+Mar 19 23:57 MissFortune.wad.client
+Mar 14 00:59 MonkeyKing.en_US.wad.client
+Mar 19 23:57 MonkeyKing.wad.client
+Mar 19 23:57 Mordekaiser.en_US.wad.client
+Mar 19 23:57 Mordekaiser.wad.client
+Mar 14 00:59 Morgana.en_US.wad.client
+Mar 19 23:57 Morgana.wad.client
+Mar 14 00:59 Nami.en_US.wad.client
+Mar 19 23:57 Nami.wad.client
+Mar 14 01:00 Nasus.en_US.wad.client
+Mar 19 23:57 Nasus.wad.client
+Mar 14 01:00 Nautilus.en_US.wad.client
+Mar 19 23:57 Nautilus.wad.client
+Mar 14 01:00 Neeko.en_US.wad.client
+Mar 19 23:57 Neeko.wad.client
+Mar 14 01:00 Nidalee.en_US.wad.client
+Mar 19 23:57 Nidalee.wad.client
+Mar 14 01:00 Nocturne.en_US.wad.client
+Mar 19 23:57 Nocturne.wad.client
+Mar 14 01:00 Nunu.en_US.wad.client
+Mar 19 23:57 Nunu.wad.client
+Mar 14 01:00 Olaf.en_US.wad.client
+Mar 19 23:57 Olaf.wad.client
+Mar 14 01:00 Orianna.en_US.wad.client
+Mar 19 23:57 Orianna.wad.client
+Mar 14 01:01 Ornn.en_US.wad.client
+Mar 19 23:57 Ornn.wad.client
+Mar 14 01:01 Pantheon.en_US.wad.client
+Mar 19 23:57 Pantheon.wad.client
+Mar 14 01:01 Poppy.en_US.wad.client
+Mar 19 23:57 Poppy.wad.client
+Mar 14 01:02 Pyke.en_US.wad.client
+Mar 19 23:57 Pyke.wad.client
+Mar 14 01:02 Qiyana.en_US.wad.client
+Mar 19 23:57 Qiyana.wad.client
+Mar 14 01:02 Quinn.en_US.wad.client
+Mar 19 23:57 Quinn.wad.client
+Mar 14 01:02 Rakan.en_US.wad.client
+Mar 19 23:57 Rakan.wad.client
+Mar 14 01:03 Rammus.en_US.wad.client
+Mar 19 23:57 Rammus.wad.client
+Mar 14 01:03 RekSai.en_US.wad.client
+Mar 19 23:57 RekSai.wad.client
+Mar 14 01:03 Renekton.en_US.wad.client
+Mar 19 23:57 Renekton.wad.client
+Mar 14 01:03 Rengar.en_US.wad.client
+Mar 19 23:57 Rengar.wad.client
+Mar 14 01:03 Riven.en_US.wad.client
+Mar 19 23:57 Riven.wad.client
+Mar 14 01:03 Rumble.en_US.wad.client
+Mar 19 23:57 Rumble.wad.client
+Mar 14 01:03 Ryze.en_US.wad.client
+Mar 19 23:57 Ryze.wad.client
+Mar 14 01:03 SG_ChoGath.en_US.wad.client
+Mar 14 01:03 SG_ChoGath.wad.client
+Mar 14 01:03 SG_KhaZix.en_US.wad.client
+Mar 14 01:03 SG_KhaZix.wad.client
+Mar 14 01:03 SG_KogMaw.en_US.wad.client
+Mar 19 23:57 SG_KogMaw.wad.client
+Mar 14 01:03 SG_RekSai.en_US.wad.client
+Mar 19 23:57 SG_RekSai.wad.client
+Mar 14 01:03 SG_Skarner.en_US.wad.client
+Mar 19 23:57 SG_Skarner.wad.client
+Mar 14 01:03 SG_VelKoz.en_US.wad.client
+Mar 14 01:03 SG_VelKoz.wad.client
+Mar 14 01:03 Sejuani.en_US.wad.client
+Mar 19 23:57 Sejuani.wad.client
+Mar 14 01:04 Senna.en_US.wad.client
+Mar 19 23:57 Senna.wad.client
+Mar 14 01:04 Sett.en_US.wad.client
+Mar 19 23:57 Sett.wad.client
+Mar 14 01:04 Shaco.en_US.wad.client
+Mar 19 23:57 Shaco.wad.client
+Mar 14 01:04 Shen.en_US.wad.client
+Mar 19 23:57 Shen.wad.client
+Mar 14 01:04 Shyvana.en_US.wad.client
+Mar 19 23:57 Shyvana.wad.client
+Mar 14 01:04 Singed.en_US.wad.client
+Mar 19 23:57 Singed.wad.client
+Mar 14 01:04 Sion.en_US.wad.client
+Mar 19 23:57 Sion.wad.client
+Mar 14 01:04 Sivir.en_US.wad.client
+Mar 19 23:57 Sivir.wad.client
+Mar 14 01:04 Skarner.en_US.wad.client
+Mar 19 23:57 Skarner.wad.client
+Mar 14 01:04 Sona.en_US.wad.client
+Mar 19 23:57 Sona.wad.client
+Mar 14 01:05 Soraka.en_US.wad.client
+Mar 19 23:57 Soraka.wad.client
+Mar 14 01:05 Swain.en_US.wad.client
+Mar 19 23:57 Swain.wad.client
+Mar 14 01:05 Sylas.en_US.wad.client
+Mar 19 23:57 Sylas.wad.client
+Mar 14 01:05 Syndra.en_US.wad.client
+Mar 19 23:57 Syndra.wad.client
+Mar 14 01:06 TFTChampion.en_US.wad.client
+Mar 14 01:06 TFTChampion.wad.client
+Mar 14 01:06 TahmKench.en_US.wad.client
+Mar 19 23:57 TahmKench.wad.client
+Mar 14 01:06 Taliyah.en_US.wad.client
+Mar 14 01:06 Taliyah.wad.client
+Mar 14 01:06 Talon.en_US.wad.client
+Mar 19 23:58 Talon.wad.client
+Mar 14 01:06 Taric.en_US.wad.client
+Mar 19 23:58 Taric.wad.client
+Mar 14 01:06 Teemo.en_US.wad.client
+Mar 19 23:58 Teemo.wad.client
+Mar 14 23:34 Thresh.en_US.wad.client
+Mar 19 23:58 Thresh.wad.client
+Mar 14 23:34 Tristana.en_US.wad.client
+Mar 19 23:58 Tristana.wad.client
+Mar 14 23:34 Trundle.en_US.wad.client
+Mar 19 23:58 Trundle.wad.client
+Mar 14 23:34 Tryndamere.en_US.wad.client
+Mar 19 23:58 Tryndamere.wad.client
+Mar 14 23:34 TwistedFate.en_US.wad.client
+Mar 19 23:58 TwistedFate.wad.client
+Mar 19 23:58 Twitch.en_US.wad.client
+Mar 19 23:58 Twitch.wad.client
+Mar 14 23:34 Udyr.en_US.wad.client
+Mar 19 23:58 Udyr.wad.client
+Mar 14 23:34 Urgot.en_US.wad.client
+Mar 19 23:58 Urgot.wad.client
+Mar 14 23:34 Varus.en_US.wad.client
+Mar 19 23:58 Varus.wad.client
+Mar 14 23:34 Vayne.en_US.wad.client
+Mar 19 23:58 Vayne.wad.client
+Mar 14 23:34 Veigar.en_US.wad.client
+Mar 19 23:58 Veigar.wad.client
+Mar 14 23:34 Velkoz.en_US.wad.client
+Mar 19 23:58 Velkoz.wad.client
+Mar 14 23:35 Vi.en_US.wad.client
+Mar 19 23:58 Vi.wad.client
+Mar 14 23:35 Viktor.en_US.wad.client
+Mar 19 23:58 Viktor.wad.client
+Mar 14 23:35 Vladimir.en_US.wad.client
+Mar 19 23:58 Vladimir.wad.client
+Mar 14 23:35 Volibear.en_US.wad.client
+Mar 14 23:35 Volibear.wad.client
+Mar 14 23:35 Warwick.en_US.wad.client
+Mar 19 23:58 Warwick.wad.client
+Mar 14 23:35 Xayah.en_US.wad.client
+Mar 19 23:58 Xayah.wad.client
+Mar 19 23:58 Xerath.en_US.wad.client
+Mar 19 23:58 Xerath.wad.client
+Mar 14 23:35 XinZhao.en_US.wad.client
+Mar 19 23:58 XinZhao.wad.client
+Mar 14 23:35 Yasuo.en_US.wad.client
+Mar 19 23:58 Yasuo.wad.client
+Mar 14 23:35 Yorick.en_US.wad.client
+Mar 19 23:58 Yorick.wad.client
+Mar 14 23:35 Yuumi.en_US.wad.client
+Mar 19 23:58 Yuumi.wad.client
+Mar 14 23:35 Zac.en_US.wad.client
+Mar 19 23:58 Zac.wad.client
+Mar 14 23:36 Zed.en_US.wad.client
+Mar 19 23:58 Zed.wad.client
+Mar 14 23:36 Ziggs.en_US.wad.client
+Mar 19 23:58 Ziggs.wad.client
+Mar 14 23:36 Zilean.en_US.wad.client
+Mar 19 23:58 Zilean.wad.client
+Mar 19 23:58 Zoe.en_US.wad.client
+Mar 19 23:58 Zoe.wad.client
+Mar 14 23:36 Zyra.en_US.wad.client
+Mar 19 23:58 Zyra.wad.client
+   
+   
+   
+Mar 19 23:58 Global.en_GB.wad.client
+Mar 19 23:58 Global.en_US.wad.client
+   
+   
+   
+Mar 14 23:44 Shipping
+   
+   
+   
+Mar 14 23:41 Common.en_US.wad.client
+Mar 19 23:58 Common.wad.client
+Mar 14 23:41 CommonLEVELS.wad.client
+Mar 14 23:41 Map11.en_US.wad.client
+Mar 19 23:58 Map11.wad.client
+Mar 14 23:44 Map11LEVELS.wad.client
+Mar 14 23:44 Map12.en_US.wad.client
+Mar 19 23:58 Map12.wad.client
+Mar 14 23:44 Map12LEVELS.wad.client
+Mar 19 23:58 Map22.en_US.wad.client
+Mar 19 23:59 Map22.wad.client
+Mar 14 23:45 Map22LEVELS.wad.client
+   
+   
+   
+Mar 19 23:59 Shaders.wad.client
+   
+   
+   
+Mar 22 13:39 GameCrashes
+Mar 22 13:39 GameLogs
+Mar 22 13:36 LeagueClient
+Mar 15 12:53 Performance
+   
+   
+   
+Mar 22 13:39 attachments
+Mar 14 23:52 metadata
+Mar 22 13:39 reports
+Mar 22 13:39 settings.dat
+   
+   
+   
+   
+   
+   
+   
+   
+   
+Mar 14 23:56 2020-03-14T23-52-40
+Mar 15 00:11 2020-03-15T00-11-54
+Mar 15 00:27 2020-03-15T00-25-53
+Mar 15 00:35 2020-03-15T00-35-28
+Mar 15 12:47 2020-03-15T12-44-54
+Mar 15 12:56 2020-03-15T12-54-42
+Mar 15 16:59 2020-03-15T16-58-56
+Mar 15 22:51 2020-03-15T22-51-30
+Mar 15 23:40 2020-03-15T23-40-26
+Mar 16 00:26 2020-03-16T00-26-03
+Mar 16 23:16 2020-03-16T23-16-31
+Mar 20 00:08 2020-03-20T00-07-36
+Mar 21 12:58 2020-03-21T12-58-23
+Mar 21 13:28 2020-03-21T13-27-51
+Mar 21 23:36 2020-03-21T23-36-12
+Mar 22 13:40 2020-03-22T13-39-48
+   
+   
+   
+Mar 15 00:03 2020-03-14T23-52-40_netlog.txt
+Mar 15 00:03 2020-03-14T23-52-40_netstats.csv
+Mar 15 00:06 2020-03-14T23-52-40_r3dlog.txt
+   
+   
+   
+Mar 15 00:13 2020-03-15T00-11-54_r3dlog.txt
+   
+   
+   
+Mar 15 00:31 2020-03-15T00-25-53_netlog.txt
+Mar 15 00:31 2020-03-15T00-25-53_netstats.csv
+Mar 15 00:25 2020-03-15T00-25-53_r3dlog.txt
+   
+   
+   
+Mar 15 00:37 2020-03-15T00-35-28_r3dlog.txt
+   
+   
+   
+Mar 15 12:53 2020-03-15T12-44-54_netlog.txt
+Mar 15 12:53 2020-03-15T12-44-54_netstats.csv
+Mar 15 12:53 2020-03-15T12-44-54_r3dlog.txt
+   
+   
+   
+Mar 15 13:02 2020-03-15T12-54-42_netlog.txt
+Mar 15 13:02 2020-03-15T12-54-42_netstats.csv
+Mar 15 13:02 2020-03-15T12-54-42_r3dlog.txt
+   
+   
+   
+Mar 15 17:00 2020-03-15T16-58-56_netlog.txt
+Mar 15 17:00 2020-03-15T16-58-56_netstats.csv
+Mar 15 17:00 2020-03-15T16-58-56_r3dlog.txt
+   
+   
+   
+Mar 15 23:38 2020-03-15T22-51-30_netlog.txt
+Mar 15 23:38 2020-03-15T22-51-30_netstats.csv
+Mar 15 23:38 2020-03-15T22-51-30_r3dlog.txt
+   
+   
+   
+Mar 16 00:19 2020-03-15T23-40-26_netlog.txt
+Mar 16 00:19 2020-03-15T23-40-26_netstats.csv
+Mar 16 00:19 2020-03-15T23-40-26_r3dlog.txt
+   
+   
+   
+Mar 16 00:56 2020-03-16T00-26-03_netlog.txt
+Mar 16 00:56 2020-03-16T00-26-03_netstats.csv
+Mar 16 00:56 2020-03-16T00-26-03_r3dlog.txt
+   
+   
+   
+Mar 16 23:47 2020-03-16T23-16-31_netlog.txt
+Mar 16 23:47 2020-03-16T23-16-31_netstats.csv
+Mar 16 23:47 2020-03-16T23-16-31_r3dlog.txt
+   
+   
+   
+Mar 20 00:27 2020-03-20T00-07-36_netlog.txt
+Mar 20 00:27 2020-03-20T00-07-36_netstats.csv
+Mar 20 00:27 2020-03-20T00-07-36_r3dlog.txt
+   
+   
+   
+Mar 21 13:20 2020-03-21T12-58-23_netlog.txt
+Mar 21 13:20 2020-03-21T12-58-23_netstats.csv
+Mar 21 13:20 2020-03-21T12-58-23_r3dlog.txt
+   
+   
+   
+Mar 21 13:55 2020-03-21T13-27-51_netlog.txt
+Mar 21 13:55 2020-03-21T13-27-51_netstats.csv
+Mar 21 13:56 2020-03-21T13-27-51_r3dlog.txt
+   
+   
+   
+Mar 22 00:11 2020-03-21T23-36-12_netlog.txt
+Mar 22 00:11 2020-03-21T23-36-12_netstats.csv
+Mar 22 00:11 2020-03-21T23-36-12_r3dlog.txt
+   
+   
+   
+Mar 22 14:02 2020-03-22T13-39-48_netlog.txt
+Mar 22 14:02 2020-03-22T13-39-48_netstats.csv
+Mar 22 14:02 2020-03-22T13-39-48_r3dlog.txt
+   
+   
+   
+Mar 15 13:02 2020-03-15T12-41-10_11012_LeagueClient-tracing.json
+Mar 15 17:00 2020-03-15T16-57-44_9256_LeagueClient-tracing.json
+Mar 15 17:00 2020-03-15T16-57-44_9256_LeagueClient.log
+Mar 15 17:00 2020-03-15T16-57-45_6140_LeagueClientUx.log
+Mar 15 17:00 2020-03-15T16-57-49_11028_LeagueClientUxHelper-renderer.log
+Mar 16 00:22 2020-03-15T22-49-27_9776_LeagueClient-tracing.json
+Mar 16 00:22 2020-03-15T22-49-27_9776_LeagueClient.log
+Mar 16 00:22 2020-03-15T22-49-28_3368_LeagueClientUx.log
+Mar 16 00:22 2020-03-15T22-49-32_6220_LeagueClientUxHelper-renderer.log
+Mar 16 01:02 2020-03-16T00-24-37_11816_LeagueClientUx.log
+Mar 16 01:02 2020-03-16T00-24-37_2676_LeagueClient-tracing.json
+Mar 16 01:02 2020-03-16T00-24-37_2676_LeagueClient.log
+Mar 16 01:02 2020-03-16T00-24-40_6992_LeagueClientUxHelper-renderer.log
+Mar 16 23:50 2020-03-16T23-13-12_5112_LeagueClient-tracing.json
+Mar 16 23:50 2020-03-16T23-13-12_5112_LeagueClient.log
+Mar 16 23:50 2020-03-16T23-13-14_11352_LeagueClientUx.log
+Mar 16 23:50 2020-03-16T23-13-17_6280_LeagueClientUxHelper-renderer.log
+Mar 19 23:56 2020-03-19T23-55-56_5200_LeagueClient-tracing.json
+Mar 19 23:56 2020-03-19T23-55-56_5200_LeagueClient.log
+Mar 19 23:56 2020-03-19T23-55-58_11572_LeagueClientUx.log
+Mar 19 23:56 2020-03-19T23-55-58_792_LeagueClientUxHelper-gpu-process.log
+Mar 19 23:56 2020-03-19T23-56-01_4540_LeagueClientUxHelper-renderer.log
+Mar 20 00:29 2020-03-19T23-57-18_11568_LeagueClientUx.log
+Mar 20 00:29 2020-03-19T23-57-18_1744_LeagueClient-tracing.json
+Mar 20 00:29 2020-03-19T23-57-18_1744_LeagueClient.log
+Mar 20 00:28 2020-03-19T23-57-18_8484_LeagueClientUxHelper-gpu-process.log
+Mar 20 00:29 2020-03-19T23-57-21_5188_LeagueClientUxHelper-renderer.log
+Mar 19 23:57 2020-03-19T23-57-33_2624_LeagueClientUxHelper-gpu-process.log
+Mar 21 13:56 2020-03-21T12-54-42_12148_LeagueClient-tracing.json
+Mar 21 13:56 2020-03-21T12-54-42_12148_LeagueClient.log
+Mar 21 13:56 2020-03-21T12-54-43_8036_LeagueClientUx.log
+Mar 21 13:56 2020-03-21T12-54-44_1072_LeagueClientUxHelper-gpu-process.log
+Mar 21 13:56 2020-03-21T12-54-47_6292_LeagueClientUxHelper-renderer.log
+Mar 21 12:54 2020-03-21T12-54-59_2284_LeagueClientUxHelper-gpu-process.log
+Mar 22 00:11 2020-03-21T23-34-12_10644_LeagueClient-tracing.json
+Mar 22 00:11 2020-03-21T23-34-12_10644_LeagueClient.log
+Mar 22 00:11 2020-03-21T23-34-13_736_LeagueClientUx.log
+Mar 22 00:11 2020-03-21T23-34-14_11972_LeagueClientUxHelper-gpu-process.log
+Mar 22 00:11 2020-03-21T23-34-18_6916_LeagueClientUxHelper-renderer.log
+Mar 21 23:34 2020-03-21T23-34-28_2876_LeagueClientUxHelper-gpu-process.log
+Mar 22 14:05 2020-03-22T13-36-24_1052_LeagueClient-tracing.json
+Mar 22 14:05 2020-03-22T13-36-24_1052_LeagueClient.log
+Mar 22 14:05 2020-03-22T13-36-26_5664_LeagueClientUx.log
+Mar 22 14:05 2020-03-22T13-36-26_6804_LeagueClientUxHelper-gpu-process.log
+Mar 22 14:03 2020-03-22T13-36-30_3008_LeagueClientUxHelper-renderer.log
+Mar 22 13:36 2020-03-22T13-36-41_5812_LeagueClientUxHelper-gpu-process.log
+   
+   
+   
+Mar 22 14:02 League_PerfDump.rpd
+   
+   
+   
+Mar 19 23:54 plugin-manifest.json
+Mar 13 23:31 rcp-be-client-config
+Mar 13 23:31 rcp-be-client-config-dep-injector
+Mar 13 23:31 rcp-be-entitlements
+Mar 13 23:31 rcp-be-gcloud-voice-chat
+Mar 13 23:31 rcp-be-lol-account-verification
+Mar 13 23:31 rcp-be-lol-acs
+Mar 13 23:31 rcp-be-lol-active-boosts
+Mar 13 23:31 rcp-be-lol-banners
+Mar 13 23:31 rcp-be-lol-career-stats
+Mar 13 23:31 rcp-be-lol-catalog
+Mar 13 23:31 rcp-be-lol-champ-select
+Mar 13 23:31 rcp-be-lol-champ-select-legacy
+Mar 13 23:31 rcp-be-lol-champions
+Mar 13 23:31 rcp-be-lol-chat
+Mar 13 23:31 rcp-be-lol-clash
+Mar 13 23:31 rcp-be-lol-clubs
+Mar 13 23:31 rcp-be-lol-clubs-public
+Mar 13 23:31 rcp-be-lol-collections
+Mar 13 23:31 rcp-be-lol-content-targeting
+Mar 13 23:31 rcp-be-lol-cosmetics
+Mar 13 23:31 rcp-be-lol-disambiguation
+Mar 13 23:31 rcp-be-lol-discord-rp
+Mar 13 23:31 rcp-be-lol-email-verification
+Mar 13 23:31 rcp-be-lol-end-of-game
+Mar 13 23:31 rcp-be-lol-esport-stream-notifications
+Mar 13 23:31 rcp-be-lol-featured-modes
+Mar 13 23:31 rcp-be-lol-game-client-chat
+Mar 14 23:33 rcp-be-lol-game-data
+Mar 13 23:36 rcp-be-lol-game-queues
+Mar 13 23:36 rcp-be-lol-game-settings
+Mar 13 23:36 rcp-be-lol-gameflow
+Mar 13 23:36 rcp-be-lol-gamhs
+Mar 13 23:36 rcp-be-lol-geoinfo
+Mar 13 23:36 rcp-be-lol-heartbeat
+Mar 13 23:36 rcp-be-lol-highlights
+Mar 13 23:36 rcp-be-lol-honor-v2
+Mar 13 23:36 rcp-be-lol-inventory
+Mar 13 23:36 rcp-be-lol-item-sets
+Mar 13 23:36 rcp-be-lol-kickout
+Mar 13 23:36 rcp-be-lol-kr-playtime-reminder
+Mar 13 23:36 rcp-be-lol-kr-shutdown-law
+Mar 13 23:36 rcp-be-lol-league-session
+Mar 13 23:36 rcp-be-lol-leaver-buster
+Mar 13 23:36 rcp-be-lol-license-agreement
+Mar 13 23:36 rcp-be-lol-loadouts
+Mar 13 23:36 rcp-be-lol-lobby
+Mar 13 23:36 rcp-be-lol-lobby-team-builder
+Mar 13 23:36 rcp-be-lol-login
+Mar 13 23:36 rcp-be-lol-loot
+Mar 13 23:36 rcp-be-lol-loyalty
+Mar 13 23:36 rcp-be-lol-maps
+Mar 13 23:36 rcp-be-lol-match-history
+Mar 13 23:36 rcp-be-lol-matchmaking
+Mar 13 23:36 rcp-be-lol-missions
+Mar 13 23:36 rcp-be-lol-mode-progression
+Mar 13 23:36 rcp-be-lol-npe-rewards
+Mar 13 23:36 rcp-be-lol-npe-tutorial-path
+Mar 13 23:36 rcp-be-lol-patch
+Mar 13 23:36 rcp-be-lol-perks
+Mar 13 23:36 rcp-be-lol-personalized-offers
+Mar 13 23:36 rcp-be-lol-pft
+Mar 13 23:36 rcp-be-lol-platform-config
+Mar 13 23:36 rcp-be-lol-player-behavior
+Mar 13 23:36 rcp-be-lol-player-level-up
+Mar 13 23:36 rcp-be-lol-player-messaging
+Mar 13 23:36 rcp-be-lol-player-preferences
+Mar 13 23:36 rcp-be-lol-pre-end-of-game
+Mar 13 23:36 rcp-be-lol-premade-voice
+Mar 13 23:36 rcp-be-lol-purchase-widget
+Mar 13 23:36 rcp-be-lol-queue-eligibility
+Mar 13 23:36 rcp-be-lol-ranked
+Mar 13 23:36 rcp-be-lol-recommendations
+Mar 13 23:36 rcp-be-lol-regalia
+Mar 13 23:36 rcp-be-lol-replays
+Mar 13 23:36 rcp-be-lol-riot-messaging-service
+Mar 13 23:36 rcp-be-lol-riotclient-upgrader
+Mar 13 23:36 rcp-be-lol-rso-auth
+Mar 13 23:36 rcp-be-lol-service-status
+Mar 13 23:36 rcp-be-lol-settings
+Mar 13 23:36 rcp-be-lol-shutdown
+Mar 13 23:36 rcp-be-lol-simple-dialog-messages
+Mar 13 23:36 rcp-be-lol-spectator
+Mar 13 23:36 rcp-be-lol-statstones
+Mar 13 23:36 rcp-be-lol-store
+Mar 13 23:36 rcp-be-lol-suggested-players
+Mar 13 23:36 rcp-be-lol-summoner
+Mar 13 23:36 rcp-be-lol-tencent-antiaddiction
+Mar 13 23:36 rcp-be-lol-tencent-qt
+Mar 13 23:36 rcp-be-lol-trophies
+Mar 13 23:36 rcp-be-lol-user-experience
+Mar 13 23:36 rcp-be-lol-worlds-token-card
+Mar 13 23:36 rcp-be-patcher
+Mar 13 23:36 rcp-be-payments
+Mar 13 23:36 rcp-be-player-notifications
+Mar 13 23:36 rcp-be-recofriender
+Mar 13 23:36 rcp-be-riot-messaging-service
+Mar 13 23:36 rcp-be-sanitizer
+Mar 13 23:36 rcp-be-voice-chat
+Mar 13 23:36 rcp-fe-app-controls
+Mar 13 23:36 rcp-fe-audio
+Mar 13 23:36 rcp-fe-common-libs
+Mar 13 23:36 rcp-fe-ember-libs
+Mar 13 23:36 rcp-fe-language-filter
+Mar 13 23:36 rcp-fe-lcu-bootstrap-ui
+Mar 13 23:36 rcp-fe-lol-account-verification
+Mar 13 23:36 rcp-fe-lol-account-verification-settings
+Mar 13 23:36 rcp-fe-lol-career-stats
+Mar 13 23:36 rcp-fe-lol-champ-select
+Mar 13 23:36 rcp-fe-lol-champ-select-skip
+Mar 13 23:36 rcp-fe-lol-champion-details
+Mar 13 23:36 rcp-fe-lol-champion-mastery-notifications
+Mar 13 23:36 rcp-fe-lol-champion-statistics
+Mar 13 23:36 rcp-fe-lol-chat-settings
+Mar 13 23:36 rcp-fe-lol-clash
+Mar 13 23:36 rcp-fe-lol-club-tag-components
+Mar 13 23:36 rcp-fe-lol-clubs
+Mar 13 23:36 rcp-fe-lol-collections
+Mar 13 23:36 rcp-fe-lol-content-targeting-settings
+Mar 13 23:36 rcp-fe-lol-disambiguation
+Mar 13 23:36 rcp-fe-lol-email-verification
+Mar 13 23:36 rcp-fe-lol-emote-panel
+Mar 13 23:36 rcp-fe-lol-esports-spectate
+Mar 13 23:37 rcp-fe-lol-eternals
+Mar 13 23:37 rcp-fe-lol-friend-finder
+Mar 13 23:37 rcp-fe-lol-game-in-progress
+Mar 13 23:37 rcp-fe-lol-game-settings
+Mar 13 23:37 rcp-fe-lol-general-settings
+Mar 13 23:37 rcp-fe-lol-highlights
+Mar 13 23:37 rcp-fe-lol-home
+Mar 13 23:37 rcp-fe-lol-home-registry
+Mar 13 23:37 rcp-fe-lol-honor
+Mar 13 23:37 rcp-fe-lol-hover-card
+Mar 13 23:37 rcp-fe-lol-item-sets
+Mar 13 23:37 rcp-fe-lol-kickout
+Mar 13 23:37 rcp-fe-lol-l10n
+Mar 13 23:37 rcp-fe-lol-league-tier-names
+Mar 13 23:37 rcp-fe-lol-leagues
+Mar 13 23:37 rcp-fe-lol-license-agreement
+Mar 13 23:37 rcp-fe-lol-license-settings
+Mar 13 23:37 rcp-fe-lol-loading-screen
+Mar 13 23:37 rcp-fe-lol-lock-and-load
+Mar 13 23:37 rcp-fe-lol-login
+Mar 13 23:37 rcp-fe-lol-loot
+Mar 13 23:37 rcp-fe-lol-match-history
+Mar 13 23:37 rcp-fe-lol-matchmaking-notifications
+Mar 13 23:37 rcp-fe-lol-missions
+Mar 13 23:37 rcp-fe-lol-navigation
+Mar 13 23:37 rcp-fe-lol-new-player-experience
+Mar 13 23:37 rcp-fe-lol-notification-settings
+Mar 13 23:37 rcp-fe-lol-npe-first-touch
+Mar 13 23:37 rcp-fe-lol-npe-rewards
+Mar 13 23:37 rcp-fe-lol-parties
+Mar 13 23:37 rcp-fe-lol-paw
+Mar 13 23:37 rcp-fe-lol-perks
+Mar 13 23:37 rcp-fe-lol-personalized-offers
+Mar 13 23:37 rcp-fe-lol-pft
+Mar 13 23:37 rcp-fe-lol-player-messaging
+Mar 13 23:37 rcp-fe-lol-player-notifications
+Mar 13 23:37 rcp-fe-lol-postgame
+Mar 13 23:37 rcp-fe-lol-premade-voice
+Mar 13 23:37 rcp-fe-lol-profiles
+Mar 13 23:37 rcp-fe-lol-reconnect-notification
+Mar 13 23:37 rcp-fe-lol-regalia
+Mar 13 23:37 rcp-fe-lol-replays
+Mar 13 23:37 rcp-fe-lol-replays-settings
+Mar 13 23:37 rcp-fe-lol-reward-notifications
+Mar 13 23:37 rcp-fe-lol-settings
+Mar 13 23:37 rcp-fe-lol-simple-dialog-messages
+Mar 13 23:37 rcp-fe-lol-skins-picker
+Mar 13 23:37 rcp-fe-lol-social
+Mar 13 23:37 rcp-fe-lol-social-avatar
+Mar 13 23:37 rcp-fe-lol-sound-settings
+Mar 13 23:38 rcp-fe-lol-splash
+Mar 13 23:38 rcp-fe-lol-startup
+Mar 13 23:38 rcp-fe-lol-static-assets
+Mar 13 23:38 rcp-fe-lol-store
+Mar 13 23:38 rcp-fe-lol-summoner-icon-picker
+Mar 13 23:38 rcp-fe-lol-tencent-qt
+Mar 13 23:38 rcp-fe-lol-tft
+Mar 13 23:38 rcp-fe-lol-typekit
+Mar 13 23:38 rcp-fe-lol-uikit
+Mar 13 23:38 rcp-fe-lol-user-experience-settings
+Mar 13 23:38 rcp-fe-lol-voice-settings
+Mar 13 23:38 rcp-fe-payments
+Mar 13 23:38 rcp-fe-plugin-runner
+Mar 13 23:38 rcp-fe-viewport
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 assets.wad
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 19 23:54 description.json
+   
+   
+   
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 21 12:54 default-assets.wad
+Mar 13 23:36 description.json
+Mar 21 12:54 en_GB-assets.wad
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 21 12:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:36 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 19 23:54 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 19 23:54 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 19 23:54 description.json
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 19 23:55 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:37 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:38 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:38 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:38 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 19 23:55 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:38 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:38 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 19 23:55 description.json
+   
+   
+   
+Mar 19 23:55 default-assets.wad
+Mar 13 23:38 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:38 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:38 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:38 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:38 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:38 description.json
+   
+   
+   
+Mar 19 23:55 assets.wad
+Mar 13 23:38 description.json
+   
+   
+   
+Mar 13 23:38 en-US.pak
+   
+   
+   
+Mar 19 23:54 Foundation.dll
+Mar 13 23:30 GCloudVoice.dll
+Mar 13 23:30 Resources
+Mar 13 23:30 RiotClientCrashHandler.exe
+Mar 19 23:54 RiotClientServices.exe
+Mar 16 23:12 UX
+Mar 13 23:31 api-ms-win-core-console-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-datetime-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-debug-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-errorhandling-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-file-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-file-l1-2-0.dll
+Mar 13 23:31 api-ms-win-core-file-l2-1-0.dll
+Mar 13 23:31 api-ms-win-core-handle-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-heap-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-interlocked-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-libraryloader-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-localization-l1-2-0.dll
+Mar 13 23:31 api-ms-win-core-memory-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-namedpipe-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-processenvironment-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-processthreads-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-processthreads-l1-1-1.dll
+Mar 13 23:31 api-ms-win-core-profile-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-rtlsupport-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-string-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-synch-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-synch-l1-2-0.dll
+Mar 13 23:31 api-ms-win-core-sysinfo-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-timezone-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-util-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-conio-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-convert-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-environment-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-filesystem-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-heap-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-locale-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-math-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-multibyte-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-private-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-process-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-runtime-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-stdio-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-string-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-time-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-utility-l1-1-0.dll
+Mar 13 23:31 concrt140.dll
+Mar 13 23:31 dbghelp.dll
+Mar 13 23:31 libcrypto-1_1.dll
+Mar 13 23:31 libcurl.dll
+Mar 13 23:31 libnghttp2.dll
+Mar 13 23:31 libssl-1_1.dll
+Mar 13 23:31 libuv.dll
+Mar 13 23:31 libzstd.dll
+Mar 13 23:31 msvcp140.dll
+Mar 13 23:31 ortp.dll
+Mar 19 23:54 rCrashpadApi.dll
+Mar 13 23:31 rail_api_v1.dll
+Mar 13 23:31 rail_api_v2.dll
+Mar 13 23:31 rail_tcls.dll
+Mar 16 23:12 system.yaml
+Mar 13 23:31 ucrtbase.dll
+Mar 13 23:31 vcruntime140.dll
+Mar 13 23:31 vgrl.dll
+Mar 13 23:31 vivoxsdk.dll
+Mar 13 23:31 wegame_auth.dll
+Mar 13 23:31 yaml.dll
+Mar 13 23:31 zlib.dll
+   
+   
+   
+Mar 13 23:30 icon.ico
+   
+   
+   
+Mar 13 23:31 Plugins
+Mar 19 23:54 RiotClientUx.exe
+Mar 19 23:54 RiotClientUxRender.exe
+Mar 13 23:31 api-ms-win-core-console-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-datetime-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-debug-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-errorhandling-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-file-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-file-l1-2-0.dll
+Mar 13 23:31 api-ms-win-core-file-l2-1-0.dll
+Mar 13 23:31 api-ms-win-core-handle-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-heap-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-interlocked-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-libraryloader-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-localization-l1-2-0.dll
+Mar 13 23:31 api-ms-win-core-memory-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-namedpipe-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-processenvironment-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-processthreads-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-processthreads-l1-1-1.dll
+Mar 13 23:31 api-ms-win-core-profile-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-rtlsupport-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-string-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-synch-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-synch-l1-2-0.dll
+Mar 13 23:31 api-ms-win-core-sysinfo-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-timezone-l1-1-0.dll
+Mar 13 23:31 api-ms-win-core-util-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-conio-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-convert-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-environment-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-filesystem-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-heap-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-locale-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-math-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-multibyte-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-private-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-process-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-runtime-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-stdio-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-string-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-time-l1-1-0.dll
+Mar 13 23:31 api-ms-win-crt-utility-l1-1-0.dll
+Mar 13 23:31 cef.pak
+Mar 13 23:31 cef_100_percent.pak
+Mar 13 23:31 cef_200_percent.pak
+Mar 13 23:31 cef_extensions.pak
+Mar 13 23:31 cef_resources.pak
+Mar 13 23:31 concrt140.dll
+Mar 13 23:31 d3dcompiler_47.dll
+Mar 13 23:31 devtools_resources.pak
+Mar 13 23:31 ffmpeg.dll
+Mar 13 23:31 icudtl.dat
+Mar 13 23:31 libEGL.dll
+Mar 13 23:31 libGLESv2.dll
+Mar 13 23:31 libcef.dll
+Mar 13 23:31 libcrypto-1_1.dll
+Mar 16 23:12 libcurl.dll
+Mar 16 23:12 libnghttp2.dll
+Mar 13 23:31 libssl-1_1.dll
+Mar 16 23:12 libuv.dll
+Mar 13 23:31 libzstd.dll
+Mar 13 23:31 locales
+Mar 13 23:31 msvcp140.dll
+Mar 13 23:31 msvcp140_1.dll
+Mar 13 23:31 msvcp140_2.dll
+Mar 13 23:31 natives_blob.bin
+Mar 19 23:54 rCrashpadApi.dll
+Mar 13 23:31 ucrtbase.dll
+Mar 13 23:31 vcruntime140.dll
+Mar 13 23:31 yaml.dll
+Mar 13 23:31 zlib.dll
+   
+   
+   
+Mar 13 23:30 plugin-manifest.json
+Mar 13 23:31 rcp-fe-keystone-react
+Mar 13 23:31 rcp-fe-plugin-runner
+   
+   
+   
+Mar 19 23:54 assets.wad
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 assets.wad
+Mar 13 23:31 description.json
+   
+   
+   
+Mar 13 23:31 en-US.pak
+   
+   
+   
+May 29 2019 CustomKeyInfo.txt
+May 29 2019 CustomKeysSample.txt
+Mar 22 14:22 Data
+Mar 22 14:22 Movies
+Aug 27 2013 RoC.ico
+Aug 27 2013 TFT.ico
+Feb 7 2019 replays.ico
+Mar 22 14:23 unins000.dat
+Mar 22 14:21 unins000.exe
+Mar 22 14:22 x86
+Mar 22 14:22 x86_64
+   
+   
+   
+Mar 22 14:22 config
+Mar 31 01:35 data
+Mar 22 14:22 indices
+   
+   
+   
+Mar 22 14:22 73
+Mar 22 14:22 7c
+Mar 22 14:22 8e
+Mar 22 14:22 98
+Mar 22 14:22 9d
+Mar 22 14:22 cc
+   
+   
+   
+Mar 22 14:22 06
+   
+   
+   
+May 29 2019 730612f1036bb32da8701a699de43c8c
+   
+   
+   
+Mar 22 14:22 45
+   
+   
+   
+Feb 7 2019 7c45731c22f6bf4ff30035ab9d905745
+   
+   
+   
+Mar 22 14:22 23
+   
+   
+   
+Jun 21 2019 8e2359951ea46853eba530b1f067c801
+   
+   
+   
+Mar 22 14:22 e2
+   
+   
+   
+Feb 7 2019 98e20152b92e86ce26dc2dd765408ec9
+   
+   
+   
+Mar 22 14:22 23
+   
+   
+   
+Jun 21 2019 9d237ac1c45b0d44bd40e8b09781235d
+   
+   
+   
+Mar 22 14:22 2d
+   
+   
+   
+May 29 2019 cc2dbb838eb5156585bc71cf9951ee65
+   
+   
+   
+Jun 21 2019 000000000c.idx
+Mar 22 14:46 000000000d.idx
+Mar 31 01:35 000000000e.idx
+Jun 21 2019 010000000b.idx
+Mar 22 14:46 010000000c.idx
+Mar 31 01:35 010000000d.idx
+Jun 21 2019 020000000c.idx
+Mar 22 14:46 020000000d.idx
+Mar 31 01:35 020000000e.idx
+Jun 21 2019 030000000b.idx
+Mar 22 14:46 030000000c.idx
+Mar 31 01:35 030000000d.idx
+Jun 21 2019 040000000c.idx
+Mar 22 14:46 040000000d.idx
+Mar 31 01:35 040000000e.idx
+Jun 21 2019 050000000c.idx
+Mar 22 14:46 050000000d.idx
+Mar 31 01:35 050000000e.idx
+Jun 21 2019 060000000b.idx
+Mar 22 14:46 060000000c.idx
+Mar 31 01:35 060000000d.idx
+Jun 21 2019 070000000c.idx
+Mar 22 14:46 070000000d.idx
+Mar 31 01:35 070000000e.idx
+Jun 21 2019 080000000b.idx
+Mar 22 14:46 080000000c.idx
+Mar 31 01:35 080000000d.idx
+Jun 21 2019 090000000c.idx
+Mar 22 14:46 090000000d.idx
+Mar 31 01:35 090000000e.idx
+Jun 21 2019 0a0000000b.idx
+Mar 22 14:46 0a0000000c.idx
+Mar 31 01:35 0a0000000d.idx
+Jun 21 2019 0b0000000b.idx
+Mar 22 14:46 0b0000000c.idx
+Mar 31 01:35 0b0000000d.idx
+Jun 21 2019 0c0000000b.idx
+Mar 22 14:46 0c0000000c.idx
+Mar 31 01:35 0c0000000d.idx
+Jun 21 2019 0d0000000b.idx
+Mar 22 14:46 0d0000000c.idx
+Mar 31 01:35 0d0000000d.idx
+Jun 21 2019 0e0000000c.idx
+Mar 22 14:46 0e0000000d.idx
+Mar 31 01:35 0e0000000e.idx
+Jun 21 2019 0f0000000c.idx
+Mar 22 14:46 0f0000000d.idx
+Mar 31 01:35 0f0000000e.idx
+Mar 31 00:24 data.000
+Mar 31 01:34 data.001
+Mar 31 00:22 shmem
+   
+   
+   
+Feb 7 2019 0098c87b94b3dee1aa1e4e4f8e3406d0.index
+Feb 7 2019 010766f3e0301b8b6530016cb88cd1dc.index
+Feb 7 2019 04c62084aeadd35bf1ba8f64f8ad5c81.index
+Feb 7 2019 058063cb7a62829ecec47942757fa7d6.index
+Feb 7 2019 05ba6cfe2e03bece9dc3c805ee6d7938.index
+Feb 7 2019 09285e6a08ecf73532ceddd1387048ce.index
+Feb 7 2019 09e64b3a09a6f73aceb2dc60b6d29bb5.index
+Feb 7 2019 0eae8e37164dbf2c22599c0d9e7162fb.index
+Feb 7 2019 0f375e5d0ce11552f03bcbf545dab505.index
+Feb 7 2019 0f4e02ecf40b40ac1799e927a73268d0.index
+Jun 21 2019 11cfd067589d18aa734d10bb5cd16284.index
+Feb 7 2019 1793bd5e5eadcc2dcfb3e987be722a90.index
+Feb 7 2019 1ed6e6f0226562399dcc577686bd23be.index
+Feb 7 2019 2725fadd485f8dfc3b8142bc69e0b73c.index
+Feb 7 2019 28758e9a84ace79dba80c806affd5ece.index
+Jun 21 2019 2b245b0af2f851eb286d1988566fdf5a.index
+Feb 7 2019 2b7dd853f45f5faa762ec235d485a25d.index
+Feb 7 2019 2bd79832bfe41241532edfe3e8244aa5.index
+Feb 7 2019 2cf4fbabef69ab20b96dad92b22828d4.index
+Feb 7 2019 2e125de4b1c4c937eedf1896961fbe70.index
+Feb 7 2019 30db8b33afee4ff185822bce0f1b6e0f.index
+Feb 7 2019 3176b7529cc35162b273fa4b93a86fc7.index
+Feb 7 2019 31e8c1d24b694aa0599b78951610cebf.index
+Feb 7 2019 374d4e3d79f5bd2b71f2ebf3f1b84a39.index
+Feb 7 2019 3cec0aa1bf345f7d1ba2df17221a7d12.index
+Feb 7 2019 3e06931a4295ba64e6e49e21263f077b.index
+Feb 7 2019 3ed2c2beb56538c3cfd9e10c436cff93.index
+Feb 7 2019 3fec575d1b162544e372d351a43d9639.index
+Feb 7 2019 46136b37bf06fa0c905d7093543265d4.index
+Feb 7 2019 4899244c3c714640abf45ffe63a4e4a2.index
+Jun 21 2019 48aa439a76fe6084c0b5694151115e24.index
+Feb 7 2019 4e2a9371c675c7199dafb487935343b9.index
+Feb 7 2019 53ea00acdf59c245a25720a3b4b2d86e.index
+May 29 2019 5592429710a4ff5578d0d89f00f326b1.index
+Feb 7 2019 566a75093eba729e1159305ff8798424.index
+Feb 7 2019 567b1699e11f735b9f6dfc239bbf9258.index
+Feb 7 2019 5887d31a3682770df032f1d110ebe28b.index
+Feb 7 2019 5ff65496563f8a0f23ce6a88a3d49f29.index
+Feb 7 2019 6053292af6f848d1894c7d6bb40d3dec.index
+May 29 2019 6163a4b7ccc2072e23cb1c915b147174.index
+May 29 2019 67b99d4e1f5a78ce55cdd7064548a735.index
+Feb 7 2019 6de4625b1e5d51a38a19d67f054f8c8f.index
+Feb 7 2019 716e7a5797b964279e702aae71587a16.index
+Feb 7 2019 73cc31971bf07709333a201584477d6e.index
+Feb 7 2019 74a1134f804ec0520db0620151bb632e.index
+Feb 7 2019 77406669c1e4ddd7e426e6d9117f442f.index
+Jun 21 2019 7cf3e79a74b215af385f2fce7989be26.index
+Feb 7 2019 7d5f581c64c123fe8db4b1e5ad839554.index
+Feb 7 2019 88961a2895c76b8a0f9498830648535d.index
+Feb 7 2019 8d695aaaa8922c7b780c79ceafa5aebc.index
+Feb 7 2019 91232966e1aca8083227a77bf7277c44.index
+Feb 7 2019 91ad6f9cc3350c391a041c487186f885.index
+Feb 7 2019 92b07127a4faaa377e117934584e275a.index
+Feb 7 2019 9306511ea58a3fb853495465b18ddcc8.index
+Feb 7 2019 943e245a41329d3f05ee80ab5af8116b.index
+Feb 7 2019 96bef7c69455fd83230566f2bdc52441.index
+Feb 7 2019 974e76389cb092b23b1576938134868c.index
+Feb 7 2019 97f64d3736861542f51e19f77cbc3be8.index
+Feb 7 2019 9b6993a9af1c1f0765ebcc2e9f1e045f.index
+Feb 7 2019 a1affd091071c8b6e16acdeaff0cd835.index
+Feb 7 2019 a920a49a146beaf2c7d52de7adf5882f.index
+Feb 7 2019 b640d52179dcdd014d0aa820f1f46c54.index
+Feb 7 2019 b7011577aa96aa417b7fc270f10c04fc.index
+Feb 7 2019 b94a4666118e96090bf158d2d249caee.index
+Feb 7 2019 bc096c28858a18c07ab5737e3847dfc5.index
+Feb 7 2019 c06f2e58cd87e9615d3d81f69c7a808b.index
+May 29 2019 c1d8f8a54969e227ce2ee1d40fc855b0.index
+Feb 7 2019 cbbe1801544184c4f26dbc8563f4dba9.index
+Feb 7 2019 d015d7e934b6d2d0bba84316b21f10fa.index
+Feb 7 2019 d05dfce18c2ed1e245dc5823abbf90fa.index
+Feb 7 2019 d3c8f6309634437f8c9ec3fa0a4a8c30.index
+Feb 7 2019 d64987bd058eb40629c7a68186eb11cd.index
+Feb 7 2019 d8bb1a4746afd5a286d5b0bf412306bf.index
+May 29 2019 d95cfcaa9ca49c1b41856a65deba4b90.index
+Feb 7 2019 da5ea7a8374089653ffe5ecce6f97de7.index
+Feb 7 2019 e2c24f4700d69763d7f1ec01794d9dbf.index
+Feb 7 2019 e3af250ebb24a1bb07b52e4e064fc018.index
+Feb 7 2019 e3be5934734688604f74d7f260db4a26.index
+Feb 7 2019 e3fe47185c69fbab16788f972a897398.index
+Feb 7 2019 e53a931f6ef41cdf8e9c72cc2b9f6405.index
+May 29 2019 e8ab84a60fb2f003fd3bf042dccbe98a.index
+Feb 7 2019 eb840e447f7b0e66459d128239d10c4c.index
+Feb 7 2019 ef7f21a71d5d636cb7f5c79f420e7277.index
+Feb 7 2019 efa1e3b94261f9f9f69b5f1ade6d0837.index
+Feb 7 2019 f2b30cd60154c09248843529d90253dd.index
+Feb 7 2019 f5a4bd565a297bf7a826ed997649577a.index
+Feb 7 2019 f62bc8fc4a59896dd104e6435b5b2ac3.index
+Feb 7 2019 f970f9cd7a4f5de4af971cac434ca267.index
+Feb 7 2019 fa964ac6e755018c837aeb4780ea2196.index
+   
+   
+   
+Mar 22 14:23 audio
+Feb 1 14:37 humaned.avi
+Feb 1 14:58 humanop.avi
+Feb 1 15:15 introx.avi
+Feb 1 15:31 nightelfed.avi
+Feb 1 15:55 orced.avi
+Feb 1 16:13 outrox.avi
+Mar 13 2019 tutorialin.avi
+Feb 1 14:10 tutorialop.avi
+Feb 1 16:25 undeaded.avi
+   
+   
+   
+Feb 26 13:26 humaned.mp3
+Feb 26 13:26 humanop.mp3
+Feb 26 13:26 introx.mp3
+Feb 26 13:26 nightelfed.mp3
+Feb 26 13:26 orced.mp3
+Feb 26 13:26 outrox.mp3
+Feb 26 13:09 tutorialin.mp3
+Feb 26 13:26 tutorialop.mp3
+Feb 26 13:26 undeaded.mp3
+   
+   
+   
+May 29 2019 ClientSdk.dll
+Jun 21 2019 Warcraft
+Jun 21 2019 World
+   
+   
+   
+May 29 2019 ClientSdk.dll
+Jun 21 2019 Warcraft
+Jun 21 2019 World
