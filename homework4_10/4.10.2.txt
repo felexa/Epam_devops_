@@ -1,0 +1,436 @@
+Fri May  8 02:11:11 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  574 tty1     00:00:00 ps
+Fri May  8 02:12:11 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  578 tty1     00:00:00 ps
+Fri May  8 02:12:46 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  579 tty1     00:00:00 sleep
+  581 tty1     00:00:00 4.10.2.sh
+  583 tty1     00:00:00 ps
+Fri May  8 02:13:11 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  584 tty1     00:00:00 sleep
+  586 tty1     00:00:00 ps
+Fri May  8 02:13:46 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  587 tty1     00:00:00 sleep
+  589 tty1     00:00:00 ps
+Fri May  8 02:14:11 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  590 tty1     00:00:00 sleep
+  592 tty1     00:00:00 ps
+Fri May  8 02:14:46 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  593 tty1     00:00:00 sleep
+  595 tty1     00:00:00 ps
+Fri May  8 02:15:11 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  596 tty1     00:00:00 sleep
+  605 tty1     00:00:00 ps
+Fri May  8 02:15:46 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  606 tty1     00:00:00 sleep
+  608 tty1     00:00:00 ps
+Fri May  8 02:16:11 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  609 tty1     00:00:00 sleep
+  611 tty1     00:00:00 ps
+Fri May  8 02:16:46 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  612 tty1     00:00:00 sleep
+  614 tty1     00:00:00 ps
+Fri May  8 02:17:11 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  615 tty1     00:00:00 sleep
+  617 tty1     00:00:00 ps
+Fri May  8 02:17:46 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  618 tty1     00:00:00 sleep
+  620 tty1     00:00:00 ps
+Fri May  8 02:18:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  621 tty1     00:00:00 sleep
+  623 tty1     00:00:00 ps
+Fri May  8 02:18:46 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  624 tty1     00:00:00 sleep
+  626 tty1     00:00:00 ps
+Fri May  8 02:19:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  627 tty1     00:00:00 sleep
+  629 tty1     00:00:00 ps
+Fri May  8 02:19:46 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  630 tty1     00:00:00 sleep
+  633 tty1     00:00:00 top
+  635 tty1     00:00:00 ps
+Fri May  8 02:20:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  633 tty1     00:00:00 top
+  636 tty1     00:00:00 sleep
+  638 tty1     00:00:00 ps
+Fri May  8 02:20:46 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  633 tty1     00:00:00 top
+  639 tty1     00:00:00 sleep
+  641 tty1     00:00:00 ps
+Fri May  8 02:21:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  642 tty1     00:00:00 sleep
+  645 tty1     00:00:00 ps
+Fri May  8 02:21:46 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  646 tty1     00:00:00 sleep
+  650 tty1     00:00:00 ps
+Fri May  8 02:22:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  651 tty1     00:00:00 sleep
+  653 tty1     00:00:00 ps
+Fri May  8 02:22:46 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  654 tty1     00:00:00 sleep
+  663 tty1     00:00:00 ps
+Fri May  8 02:23:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  664 tty1     00:00:00 sleep
+  665 tty1     00:00:00 4.10.5.sh
+  667 tty1     00:00:00 ps
+Fri May  8 02:23:46 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  668 tty1     00:00:00 sleep
+  669 tty1     00:00:00 nano
+  671 tty1     00:00:00 ps
+Fri May  8 02:24:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  672 tty1     00:00:00 sleep
+  675 tty1     00:00:00 ps
+Fri May  8 02:24:47 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  676 tty1     00:00:00 sleep
+  678 tty1     00:00:00 ps
+Fri May  8 02:25:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  679 tty1     00:00:00 sleep
+  682 tty1     00:00:00 ps
+Fri May  8 02:25:47 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  683 tty1     00:00:00 sleep
+  690 tty1     00:00:00 ps
+Fri May  8 02:26:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  691 tty1     00:00:00 sleep
+  693 tty1     00:00:00 4.10.5.sh
+  695 tty1     00:00:00 ps
+Fri May  8 02:26:47 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  693 tty1     00:00:00 4.10.5.sh
+  696 tty1     00:00:00 sleep
+  698 tty1     00:00:00 ps
+Fri May  8 02:27:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  693 tty1     00:00:00 4.10.5.sh
+  699 tty1     00:00:00 sleep
+  701 tty1     00:00:00 ps
+Fri May  8 02:27:47 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  693 tty1     00:00:00 4.10.5.sh
+  702 tty1     00:00:00 sleep
+  704 tty1     00:00:00 ps
+Fri May  8 02:28:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  693 tty1     00:00:00 4.10.5.sh
+  705 tty1     00:00:00 sleep
+  707 tty1     00:00:00 ps
+Fri May  8 02:28:47 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  693 tty1     00:00:00 4.10.5.sh
+  708 tty1     00:00:00 sleep
+  710 tty1     00:00:00 ps
+Fri May  8 02:29:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  693 tty1     00:00:00 4.10.5.sh
+  711 tty1     00:00:00 sleep
+  713 tty1     00:00:00 ps
+Fri May  8 02:29:47 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  693 tty1     00:00:00 4.10.5.sh
+  714 tty1     00:00:00 sleep
+  716 tty1     00:00:00 ps
+Fri May  8 02:30:12 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  693 tty1     00:00:00 4.10.5.sh
+  717 tty1     00:00:00 sleep
+  719 tty1     00:00:00 ps
+Fri May  8 02:30:47 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  720 tty1     00:00:00 sleep
+  729 tty1     00:00:00 ps
+Fri May  8 02:31:13 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  730 tty1     00:00:00 sleep
+  733 tty1     00:00:00 ps
+Fri May  8 02:31:47 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  734 tty1     00:00:00 sleep
+  736 tty1     00:00:00 ps
+Fri May  8 02:32:13 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  737 tty1     00:00:00 sleep
+  740 tty1     00:00:00 nano
+  742 tty1     00:00:00 ps
+Fri May  8 02:32:47 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  743 tty1     00:00:00 sleep
+  759 tty1     00:00:00 ps
+Fri May  8 02:33:13 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  760 tty1     00:00:00 sleep
+  762 tty1     00:00:00 4.10.7.sh
+  767 tty1     00:00:00 sleep
+  769 tty1     00:00:00 ps
+Fri May  8 02:33:47 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  762 tty1     00:00:00 4.10.7.sh
+  767 tty1     00:00:00 sleep
+  770 tty1     00:00:00 sleep
+  772 tty1     00:00:00 ps
+Fri May  8 02:34:13 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  581 tty1     00:00:00 4.10.2.sh
+  773 tty1     00:00:00 sleep
+  777 tty1     00:00:00 ps
+Fri May  8 02:34:33 EEST 2020
+  PID TTY          TIME CMD
+    5 tty1     00:00:00 init
+   92 tty1     00:00:00 sudo
+   93 tty1     00:00:02 bash
+  572 tty1     00:00:00 4.10.2.sh
+  781 tty1     00:00:00 ps
